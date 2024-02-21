@@ -1,0 +1,35 @@
+*일러스트
+
+컨트롤+d 앞선 동작 반복
+컨트롤+j 끊어진 패쓰 연결가능 (오브젝트- join)
+지우개 크기= [,]
+view= show grid,snap to grid
+(가이드 선 만들어서 하트 만들기)
+
+----------------
+*git
+
+파일명 변경하기
+git mv 바꿀 파일명 바뀔 파일명
+
+branch 만들기
+git branch 브랜치 만들이름 (ex dev1)
+git branch --list 만들어진 브랜치 리스트
+(내가 현재 있는 곳)
+
+메인-> 브랜치 이동하는 법
+git switch 가고싶은 브랜치dev1
+git switch - 직전의 브랜치 이동
+git branch -m 바꿀네임 바뀔 네임
+
+git cd../ 이전 파일로 돌아가기
+
+git merge 합칠 브랜치 브랜치 합치기 
+
+*github 연결 끊기
+git config --list
+git config --unset --global user.name
+// email
+git remote rm origin 
+제거완료 
+자격증명관리-윈도우 자격증명 -제거

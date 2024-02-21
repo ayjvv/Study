@@ -1,0 +1,24 @@
+*일러스트
+컨트롤 + [ , ]= 선택한 오브젝트 앞으로 뒤로 한칸씩
++shift = 맨 앞, 맨 뒤
+컨트롤+g = 그룹
+컨트롤+g+shift  = 그룹해제
+
+stroke=path 로 그린 선 둥글게 처리
+
+*git
+cd/ = 경로 변경
+
+git init
+git 이라는 명령어를 붙이면 디렉토리를 git에 저장한다는 뜻
+
+git add .= 여러 개의 파일을 한번에 add가능
+(변경된 것만 알아서 해줌)
+
+git status -s = 현재상태를 축약해서 보여줌
+git diff = 변경된 내용을 구체적으로 보여줌
+git log --oneline = 과정 한줄 요약
+
+git commit -am =   한번이라도 커밋한 파일만 사용가능
+(add와 commit 한번에 가능)
+
