@@ -1,0 +1,43 @@
+*일러스트
+
+<클리핑 마스크>
+smooth tool=드레그해서 path 뽀족한 부분 수정가능
+mask-닫힌  path만 가능
+path 랑 image 같이 잡고 꼭 path가 iamage위에 있어야함 / 둘이 같이 선택
+object-clipping mask-make
+or 마우스 우측 make clipping mask
+
+<서체효과 주는법>
+
+object expand->일반 path들로 바꿔준다
+
+상대방한테 서체가 없을 경우 type-creat outline으로 바꾼후 저장
+
+path painter-unite-compoundpath-make-clipingmask
+----------
+image-imagetrace-expand
+
+ 
+-----------
+
+*HTML:링크를 가진 문서 ->웹 문서 연결가능
+txt 저장, html저장
+<title>웹페이지의 탭 부분(필수로 있어야함)</title>
+<html lang="ko">
+
+<a href="값"> 내용 </a>
+요소 속성 값
+
+----------
+vscode
+
+file-prefernces->setting
+
+Font-'D2coding',
+
+tab size 2
+
+wrap-on
+
+*경로설정
+->file-open folder-new-저장부터
