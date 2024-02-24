@@ -1,0 +1,30 @@
+*일러스트
+shape builder tool: 드레그 합체, art 드레그 삭제
+
+gradient-더블클릭 색상,그라 모양 등 옵션창/ 드레그 위치 각도 색상 조절
+
+window-Aligin->-Aligin artboard
+
+*선을 면으로 변경
+path->outline storke
+ 
+-----------------------
+
+*git
+
+텍스트 파일안에 내용 추가 하는 코드
+echo "내용" >> 파일명
+
+github에 보내는 법
+ 
+your repositories-new-레파지토리 만들고-git(add,commit 없는지 확인)-git remote add origin 올릴코드-
+git push origin main
+
+git hub 에서 올려 받거나 수정후 다시 올려받는 법
+받을 파일 생성 또는 받을 곳에 git init- git remote로 코드 연결(git config로 연결 되어 있는지 확인)
+-git pull origin main 
+
+commit 내용 수정
+git rebase -i HEAD(main) ~숫자
+빠져나오는 법
+git rebase --skip
