@@ -1,0 +1,17 @@
+*일러스트
+
+3d효과
+글씨->effect->expand->ok
+
+수정->appearance->3d extube 에서 수정
+각각 수정(일반패스로 바꾸고) -object->expand appearance
+
+--
+
+estrude&bevel->map art
+
+symlbol->도형만들어서 끌어다 놓기
+path-add achor point-꽃잎수 늘리기
+
+스케치 느낌 (expand 해야함) effect-stylize->scibble
+
