@@ -54,6 +54,10 @@ table tr th td
 / 셀(열)합치기 <td colspan="">
 행합치기 <td rowspan= "">
 태그*갯수=복사
+hl>li*갯수
 
 *이미지 누르면 링크 연결
 <td rowspan="3"><a href="" target="_blank"><img src="" alt=""></a></td>
+
+*form
+사용자와 직접적으로 대화하는 태그
