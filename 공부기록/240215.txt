@@ -24,7 +24,7 @@ git branch -m 바꿀네임 바뀔 네임
 
 git cd../ 이전 파일로 돌아가기
 
-git merge 합칠 브랜치 브랜치 합치기 
+git merge 합칠 브랜치 =브랜치 합치기 
 
 *github 연결 끊기
 git config --list
