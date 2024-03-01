@@ -41,5 +41,9 @@
 **HTML:** 표(table,tr,th,td,caption,thead,tbody,tfoot,clospan,rowspan) form(input,type,name,id,maxlength,placeholder)  
 
 # 240228
-**포토샵:** 
-**HTML:** 
+**포토샵:** FillterGallery,Pattern,gif,영상편집 하는 법  
+**HTML:** form과 관련된 태그이어서(fieldset,form,label),비디오와 오디오(video,audio),
+favicon  
+# 240229
+**포토샵:** 웹사이트 원본과 똑같이 만들기(평가)  
+**HTML:** meta(메타데이터), og(open graph)
