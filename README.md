@@ -46,4 +46,7 @@
 favicon  
 # 240229
 **포토샵:** 웹사이트 원본과 똑같이 만들기(평가)  
-**HTML:** meta(메타데이터), og(open graph)
+**HTML:** meta(메타데이터), og(open graph)  
+# 240304
+**figma:**  
+**css:**
