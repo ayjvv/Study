@@ -1,0 +1,12 @@
+피그마 단축키
+전체 보기
+쉬프트+컨트롤+/
+프레임/페이지/같이 이동
+그리드-컬럼(960.gs)코드 짜기도 쉬움 https://getbootstrap.kr/docs/5.2/layout/grid/
+
+*html
+op한번더 복습(수정시 다시 카카오 들어가서 하는법)
+<link>,<style>
+
+*css
+color, 우선순위 
