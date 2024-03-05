@@ -47,6 +47,11 @@ favicon
 # 240229
 **포토샵:** 웹사이트 원본과 똑같이 만들기(평가)  
 **HTML:** meta(메타데이터), og(open graph)  
+
 # 240304
 **figma:** 피그마 기본 단축기, frame, page만들기, 같이 잡고 이동, grid  
 **css:** css우선순위,color  
+
+# 240304
+**figma:** grid에 관한 사용법, 컨포넌트, auto layeout, us as mask  
+**css:** 서체와 관련된 여러가지 태그들(align, shadow 등), text-overflow   
