@@ -59,3 +59,7 @@ favicon
 # 240306
 **figma:** prototype, variant,반응형 모바일  
 **css:** : 의사클래스 태그(특정상태), ::의사요소(특정요소 선택),선택자의 종류(+,~)  
+
+# 240307
+**figma:** 웹사이트 가져와서 와이어 프레임만들기  
+**css:** : vertical-align, border, padding, magin, 블록 요소 중앙정렬  
