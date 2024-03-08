@@ -62,4 +62,8 @@ favicon
 
 # 240307
 **figma:** 웹사이트 가져와서 와이어 프레임만들기  
-**css:** : vertical-align, border, padding, magin, 블록 요소 중앙정렬  
+**css:** vertical-align, border, padding, magin, 블록 요소 중앙정렬
+
+# 240308
+**figma:** 마크업 분석,floating icon,slide  
+**css:** border-radius,border-radius,magin+padding,list-style,요소 실제 크기
