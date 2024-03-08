@@ -1,0 +1,23 @@
+*피그마
+ui 모바일 디자인 만들기
+floating icon
+slide
+
+작업 끝난후 section
+프레임아이콘 아래 있음
+작업한거 전부 다 선택해서 하나의 섹션으로 만들어서 관리하기
+
+피그마 세이브 투 카피 저장하고 피그마 사이트 열어서 끌어다가 가져가야 열림
+
+마크업 분석 프레임
+
+
+*Css
+둥근모서리border-radius
+border-radius: 50px 20px 30px 10px; /* 왼쪽부터 시계방향 t-l t-r b-r b-l */
+magin+padding을 이용한 예시 연습
+list-style
+요소 실제크기
+
+*width + margin-left + margin-right + padding-left + border-left + border-right
+*height + margin-top + margin-bottom + padding-top + padding-bottom + border-top + border-bottom
