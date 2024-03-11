@@ -1,0 +1,18 @@
+*피그마
+모바일 사이트 만들기
+모바일 사이트 디자인 하기
+
+
+*css
+요소 실제크기 연습2
+어절 줄바꿈 태그(상속)
+word-break
+
+
+box-sizing: content-box
+    w300+m30+m30+p30+p30+b20+b20=440px
+
+ 
+box-sizing: boder-box
+    w300(p30+p30+b10+b10)+m30+m30=360px
+    <!-- 퍼센트 값 구할 때 -->
