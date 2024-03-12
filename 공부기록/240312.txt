@@ -1,0 +1,18 @@
+*figma
+모바일 사이트 리디자인
+
+
+*css
+max-width 이상/min-이하
+마진 상쇄 현상 해결-> 부모 요소에  overflow: hidden 
+outline: none 포커스 상태일 때 테두리 없앰 
+
+*table
+컨텐츠가 없는 경우 셀처리 방법 :empty-cells: show (hide)
+
+셀과 셀 사이의 간격. 테이블 요소에만 해당되는 속성
+ border-spacing
+
+ border-collapse
+ 기본값. 겹치는 셀 테두리 값 그대로 둠
+
