@@ -1,0 +1,15 @@
+*피그마
+모바일 디자인 2
+
+
+*css
+셀은 보더값이 안먹음 (td 에줘야함)
+
+요소성격변경
+display(inline,inline-block,none,block)
+visibility(hidden콘텐츠만 안보임.숨김/ visible컨텐츠 보임)
+opacity(투명도)
+
+accent-color(input type=checkbox, radio, range,progress 컨트롤 값 제어)
+before+after(의사요소/컨텐츠 앞, 뒤)
+
