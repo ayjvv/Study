@@ -34,7 +34,9 @@
 
 # 240226
 **포토샵:** blending 효과, 조정 layer, feather  
-**HTML:** image, id사용해서 특정위치 이동, figure, figcaption  
+**HTML:** 
+- image, id사용해서 특정위치 이동
+- figure, figcaption  
 
 # 240227
 **포토샵:** layer style 사용해서 폰트 효과주는 법, stamp tool, filter, 얼굴 보정  
@@ -59,19 +61,30 @@
 
 # 240305
 **figma:** 베리언트, share, export, prototype, 컨포넌트, 오토레이아웃, mask  
-**css:** 서체와 관련된 여러가지 태그들(align, shadow 등), text-overflow   
+**css:** 
+- 서체와 관련된 여러가지 태그들(align, shadow 등)
+- text-overflow   
 
 # 240306
 **figma:** prototype, variant,반응형 모바일  
-**css:** : 의사클래스 태그(특정상태), ::의사요소(특정요소 선택), 선택자의 종류(+,~)  
+**css:** 
+- : 의사클래스 태그(특정상태), ::의사요소(특정요소 선택)  
+- 선택자의 종류(+,~)  
 
 # 240307
 **figma:** 웹사이트 가져와서 와이어 프레임만들기  
-**css:** vertical-align, border, padding, magin, 블록 요소 중앙정렬(magin)  
+**css:** 
+- vertical-align(baseline, bottom, bottom, top)
+- border, padding, magin
+- 블록 요소 중앙정렬(magin)  
 
 # 240308
 **figma:** 마크업 분석, floating icon, slide  
-**css:** border-radius, border-radius, magin+padding, list-style, 요소 실제 크기  
+**css:** 
+- border-radius  
+- magin+padding
+- list-style
+- 요소 실제 크기  
 
 # 240311
 **figma:** 모바일 사이트 디자인 하기(와이어프레임 기준)  
