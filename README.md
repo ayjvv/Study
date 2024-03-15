@@ -91,13 +91,15 @@
 **css:** 
 - word-break(normal, break-all, keep-all),  
 - box-sizing(content-box, boder-box), 
-- overflow(inherit, visible, hidden, auto, scroll), overflow-x/-y  
+- overflow(inherit, visible, hidden, auto, scroll)
+- overflow-x/-y  
 
 # 240312
 **figma:** 모바일 사이트 리디자인  
 **css:** 
 - max-width 이상/min-width 이하  
-- overflow: hidden,outline: none  
+- overflow: hidden(magin상쇄 현상 해결)  
+- outline: none  
 - empty-cells:(show, hide)  
 - border-spacing  
 - border-collapse(separate, collapse)  
@@ -106,22 +108,25 @@
 **figma:** 모바일 사이트 리디자인2  
 **css:** 
 - display(inline, block, line-block, none)  
-- visibility(hidden, visible), opacity  
+- visibility(hidden, visible)
+- opacity  
 - accent-color(progress, input type= range)  
-- : = ::before,: = ::after, line-height  
+- : = ::before,: = ::after
+- line-height  
 
 # 240314
 **UI/UX:** 디자인 이론 수업  
 **css:** 
-- em, rem, vw,vh  
-- display:flex/ flex-direction(row, column, row-reverse, column-reverse)  
+- em, rem, vw, vh  
+- display:flex
+- flex-direction(row, column, row-reverse, column-reverse)  
 - flex-wrap(nowrap, wrap, wrap-reverse)  
 
 # 240315
 **css:** 
 - flex-flow, gap  
-- 주축/justify-content(flex-start,flex-end, center,space-around,  
+- 주축/ justify-content(flex-start,flex-end, center,space-around,  
  space-between,space-evenly)
-- 교차축/align-items(stretch,flex-start,flex-end,center)
+- 교차축/ align-items(stretch,flex-start,flex-end,center)
 - align-content(stretch,flex-start,end,center,space-around,space-between,space-evenly)
 - align-self(flex-start,flex-end,center,stretch)  
