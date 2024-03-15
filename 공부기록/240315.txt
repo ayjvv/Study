@@ -1,9 +1,4 @@
 *css
-flex-flow: row wrap
-- flex-direction, flex-wrap을 한 번에 작성하고자 할때 사용. 순서 상관없음
-- 생략된 값은 기본값 적용
-
-
 
 너비=인라인-컨텐츠의 너비
 블록- 부모에게서 상속
@@ -11,6 +6,56 @@ flex-flow: row wrap
 높이 인라인-부모가 갖고있는 높이
 블록-컨텐츠의 높이 만큼(폰트)
 
-*주축
 
-*교차축
+-flex-flow: flex-direction, flex-wrap을 한 번에 작성하고자 할때 사용. 순서 상관없음/생략된 값은 기본값 적용
+-gap: 아이템의 행과 열사이의 간격. 아이템과 아이템 사이의 여백 
+
+
+<주축 기준 플렉스 아이템 정렬>
+justify-content: flex-start; - 기본값. 주축의 시작점 기준 정렬
+
+justify-content: flex-end; - 주축의 끝점 기준 정렬
+
+justify-content: center; - 주축의 중앙 기준 정렬
+
+justify-content: space-around; - 주축 기준으로 여백 포함 동일한 간격으로 정렬
+
+justify-content: space-between; - 주축 기준으로 양끝에 맞춰 아이템을 정렬하고
+                                              여백은 동일한 값으로 부여하여 정렬
+justify-content: space-evenly; - 주축을 기준으로 여백을 동일하게 적용
+
+
+
+<교차죽 기준 아이템 하나씩 정렬>
+ align-items: stretch; - 기본값. 아이템 높이 값이 없어도 컨테이너의 높이 값만큼 아이템 정렬
+
+align-items: flex-start; - 교차축 기준 시작점 부터 정렬
+
+align-items: flex-end; - 교차축 기준 끝점부터 정렬
+
+align-items: center; - 교차축 기준 중앙 정렬
+/align-items: space-around; 없음/
+
+
+
+*align-content: 교차축 기준으로 여러 아이템을 하나의 덩어리로 보고 정렬
+align-content: stretch; - 기본 값. 높이 값이 지정되어 있으면 적용되지 않음
+
+align-content: flex-start; - 여러 아이템을 하나의 그룹으로 보고 교차축 시작점에서 정렬
+
+align-content: end; - 여러 아이템을 하나의 그룹으로 보고 교차축 끝점에서 정렬
+
+align-content: center; - 여러 아이템을 하나의 그룹으로 보고 교차축 중앙에서 정렬
+
+align-content: space-around; - 여러 아이템을 하나의 그룹으로 보고 교차축 시작점에서 정렬
+
+align-content: space-between; - 양끝에 맞춰 아이템을 정렬하고 여백은 동일한 값으로 부여하여 정렬
+
+align-content: space-evenly; - 교차축을 기준으로 여백을 동일하게 적용
+
+
+
+* align-self: 자식인 플렉스 아이템에 적용. 교차축 기준 개별 배치
+flex-start/flex-end/center/stretch
+
+

@@ -6,9 +6,14 @@ dispath instance-연결 끊기
 오토레이아웃=쉬프트+a
 
 *css
-vertical-align
+*vertical-align:
+baseline:기본값
+bottom: 현재 요소와 자손들 모두 bottom기준
+bottom:: 부모기준(baseline 기준으로 글자 높이의 반)
+top: 이미지의 기본값으로 설정
 
-박스 스타일 - border
+
+*박스 스타일 - border
 (테두리 값)
 
 *웹 스타일 기본 숫자(n-n)

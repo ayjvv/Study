@@ -6,13 +6,25 @@
 *css
 요소 실제크기 연습2
 어절 줄바꿈 태그(상속)
-word-break
+word-break: normal; 띄어쓰기가 있을 시 줄바꿈
+word-break: break-all; 어절에 맞춰 줄바꿈 영어 한정
+word-break: keep-all; 어절을 유지하며 줄바꿈. 한글 적용
 
 
 box-sizing: content-box
-    w300+m30+m30+p30+p30+b20+b20=440px
+    w+m+m+p+p+b+b=px
+    기본값
 
  
 box-sizing: boder-box
-    w300(p30+p30+b10+b10)+m30+m30=360px
-    <!-- 퍼센트 값 구할 때 -->
+    w(p+p+b+b)+m+m=w+m px
+    퍼센트 값 구할 때
+
+넘치는 컨텐츠 제어하는 태그
+overflow: inherit; - 상속은 현재 부모나 조상 요소에
+overflow가 적용 된게 없으면 성격을 물려받지 못함
+a 태그에 컬러 색상을 부모 색상으로 물려받을 때 많이 씀
+(visible-기본값,hidden숨김,auto자동,scroll스크롤)
+
+overflow-x: x축 스크롤
+overflow-y: y축 스크롤

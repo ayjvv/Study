@@ -1,15 +1,38 @@
 *피그마
-모바일 디자인 2
+모바일 리디자인
 
 
 *css
-셀은 보더값이 안먹음 (td 에줘야함)
+셀은 border값이 안먹음 (td 에줘야함)
 
-요소성격변경
-display(inline,inline-block,none,block)
-visibility(hidden콘텐츠만 안보임.숨김/ visible컨텐츠 보임)
-opacity(투명도)
 
-accent-color(input type=checkbox, radio, range,progress 컨트롤 값 제어)
-before+after(의사요소/컨텐츠 앞, 뒤)
+*display: 요소성격변경
+display: inline; - 인라인 요소로 변함(요소의 기본성격 변경. 상속x. 해당 요소에만 적용)
+display: block - 블록 요소로 변함
+
+display: inline-block; - 인라인, 블록 성격 모두 가짐
+      ㄴ 인라인처럼 띄어쓰기, 줄바꿈 인식
+      ㄴ 인라인처럼 line-height 값을 가짐
+      ㄴ 블록 처럼 width,height 값을 가짐
+      ㄴ 가로 중앙 정렬의 경우 인라인, 블록 적용 방식 다 가능. 다만,
+      띄어쓰기가 있어 인라인 방식으로 정렬하는 것이 좀 더 편함
+
+display: none; - 브라우저 영역에서 사라짐. 코드 창에서만 확인 가능하며 레이아웃에 영향을 줌
+
+
+
+visibility(hidden콘텐츠만 안보임 영역 남음.숨김/ visible컨텐츠 보임)
+
+opacity(투명도 자식에게 영향줌 0~1)
+
+accent-color(input type=checkbox, radio, range,progress 컨트롤 값 제어)/
+progress, input type= range
+
+: = ::before - 기준 요소 안의 컨텐츠 영역 앞쪽에 적용. 의사 요소
+: = ::after - 기준 요소 안의 컨텐츠 영역 뒤쪽에 적용
+
+
+*콘텐츠 안에 세로를 중심으로 정렬하는 방법 - height와 line-height의 값을 동일하게 적용
+단, 텍스트가 한 줄인 경우만 가능함
+
 
