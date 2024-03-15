@@ -104,7 +104,8 @@
 
 # 240313
 **figma:** 모바일 사이트 리디자인2  
-**css:** - display(inline, block, line-block, none)  
+**css:** 
+- display(inline, block, line-block, none)  
 - visibility(hidden, visible), opacity  
 - accent-color(progress, input type= range)  
 - : = ::before,: = ::after, line-height  
