@@ -100,7 +100,7 @@
 - max-width 이상/min-width 이하  
 - overflow: hidden(magin상쇄 현상 해결)  
 - outline: none  
-- empty-cells:(show, hide)  
+- empty-cells(show, hide)  
 - border-spacing  
 - border-collapse(separate, collapse)  
 
