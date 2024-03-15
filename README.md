@@ -44,7 +44,8 @@
 
 # 240228
 **포토샵:** FillterGallery, Pattern, gif, 영상편집 하는 법  
-**HTML:** form과 관련된 태그이어서(fieldset, form, label)  
+**HTML:** 
+- form과 관련된 태그이어서(fieldset, form, label)  
 - 비디오와 오디오(video, audio)  
 - favicon  
 
