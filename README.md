@@ -75,8 +75,9 @@
 
 # 240311
 **figma:** 모바일 사이트 디자인 하기(와이어프레임 기준)  
-**css:** - word-break(normal, break-all, keep-all),  
-- box-sizing(content-box, boder-box), 
+**css:** 
+ - word-break(normal, break-all, keep-all),  
+ - box-sizing(content-box, boder-box), 
  - overflow(inherit, visible, hidden, auto, scroll), overflow-x/-y  
 
 # 240312
