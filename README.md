@@ -38,7 +38,8 @@
 
 # 240227
 **포토샵:** layer style 사용해서 폰트 효과주는 법, stamp tool, filter, 얼굴 보정  
-**HTML:**  - 표(table, tr, th, td, caption, thead, tbody, tfoot, clospan, rowspan) 
+**HTML:** 
+ - 표(table, tr, th, td, caption, thead, tbody, tfoot, clospan, rowspan) 
  - form(input, type, name, id, maxlength, placeholder)  
 
 # 240228
