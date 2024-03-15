@@ -39,8 +39,8 @@
 # 240227
 **포토샵:** layer style 사용해서 폰트 효과주는 법, stamp tool, filter, 얼굴 보정  
 **HTML:** 
- - 표(table, tr, th, td, caption, thead, tbody, tfoot, clospan, rowspan) 
- - form(input, type, name, id, maxlength, placeholder)  
+- 표(table, tr, th, td, caption, thead, tbody, tfoot, clospan, rowspan) 
+- form(input, type, name, id, maxlength, placeholder)  
 
 # 240228
 **포토샵:** FillterGallery, Pattern, gif, 영상편집 하는 법  
@@ -76,13 +76,14 @@
 # 240311
 **figma:** 모바일 사이트 디자인 하기(와이어프레임 기준)  
 **css:** 
- - word-break(normal, break-all, keep-all),  
- - box-sizing(content-box, boder-box), 
- - overflow(inherit, visible, hidden, auto, scroll), overflow-x/-y  
+- word-break(normal, break-all, keep-all),  
+- box-sizing(content-box, boder-box), 
+- overflow(inherit, visible, hidden, auto, scroll), overflow-x/-y  
 
 # 240312
 **figma:** 모바일 사이트 리디자인  
-**css:** - max-width 이상/min-width 이하  
+**css:** 
+- max-width 이상/min-width 이하  
 - overflow: hidden,outline: none  
 - empty-cells:(show, hide)  
 - border-spacing  
@@ -97,14 +98,16 @@
 
 # 240314
 **UI/UX:** 디자인 이론 수업  
-**css:** - em, rem, vw,vh  
+**css:** 
+- em, rem, vw,vh  
 - display:flex/ flex-direction(row, column, row-reverse, column-reverse)  
 - flex-wrap(nowrap, wrap, wrap-reverse)  
 
 # 240315
-**css:** flex-flow, gap  
+**css:** 
+- flex-flow, gap  
 - 주축/justify-content(flex-start,flex-end, center,space-around,  
- space-between,space-evenly)  
- - 교차축/align-items(stretch,flex-start,flex-end,center),
- - align-content(stretch,flex-start,end,center,space-around,space-between,space-evenly)
- - align-self(flex-start,flex-end,center,stretch)  
+ space-between,space-evenly)
+- 교차축/align-items(stretch,flex-start,flex-end,center)
+- align-content(stretch,flex-start,end,center,space-around,space-between,space-evenly)
+- align-self(flex-start,flex-end,center,stretch)  
