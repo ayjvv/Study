@@ -125,9 +125,9 @@
 # 240315
 **css:** 
 - flex-flow, gap  
-- 주축/ justify-content(flex-start,flex-end, center,space-around,  
+- 주축/ justify-content(flex-start, flex-end, center, space-around,  
  space-between, space-evenly)
 - 교차축/ align-items(stretch, flex-start, lex-end, center)
 - align-content(stretch, flex-start, end, center, space-around, space-between,  
   space-evenly)
-- align-self(flex-start,flex-end,center,stretch)  
+- align-self(flex-start, flex-end, center, stretch)  
