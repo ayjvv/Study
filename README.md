@@ -133,5 +133,5 @@
 - align-self(flex-start, flex-end, center, stretch)  
 
 # 240319
-**UI/UX:** 팀별 프로젝트(프로젝트명, 팀리더, 주제, 벤치마킹 사이트 및 앱)  
+**UI/UX:** 팀별 프로젝트(프로젝트명, 팀리더, 주제, 벤치마킹 사이트 및 앱 정함)  
 **css:** flexEx 7,8,9  
