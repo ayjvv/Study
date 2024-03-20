@@ -132,6 +132,25 @@
   space-evenly)
 - align-self(flex-start, flex-end, center, stretch)  
 
-# 240319
-**UI/UX:** 팀별 프로젝트(프로젝트명, 팀리더, 팀원, 주제, 벤치마킹 사이트 및 앱 정함)  
+# 240318
+**UI/UX:** 팀 프로젝트(프로젝트명, 팀리더, 팀원, 주제, 벤치마킹 사이트 및 앱 정함)  
 **css:** flexEx 7,8,9  
+
+# 240319
+**UI/UX:** 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT)}  
+**css:** 
+-  flex 예제9  
+-  <수열 선택자>   
+-  :first-child/:last-child/:nth-child(n)  
+-  :first-of-type/:last-of-type/:nth-of-type(n)  
+-  (even) 짝수/(odd) 홀수/(3n+1) 3개를 기준으로 첫번째/(3n) 3번째  
+
+# 240320
+**UI/UX:** 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT), 팀 발표}  
+**css:** 
+- .gnb li:first-child a 첫번째 자식의 선택  
+- background-image:url()  
+- background-repeat(repeat, repeat-y, repeat-x)  
+- background-position(scroll, fixed)  
+- background-size (x축,y축, %, contain, cover)  
+
