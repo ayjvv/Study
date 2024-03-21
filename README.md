@@ -155,7 +155,7 @@
 - background-size (x축,y축, %, contain, cover)
 
 # 240321
-**UI/UX:** 팀 프로젝트{개선할 점, 사용자 니즈파악, 페르소나, UX VISION, As is->To be}  
+**UI/UX:** 팀 프로젝트(개선할 점, 사용자 니즈파악, 페르소나, UX VISION, As is->To be)  
 **css:** 
 - svg파일 색상 바꾸기  
 - flex-grow  
