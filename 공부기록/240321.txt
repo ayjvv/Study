@@ -35,7 +35,7 @@ flex-basis: auto; 기본값. 아이템 컨텐츠 크기에 맞춰 grow 비율 �
 flex-basis: 0; 플렉스아이템의 컨텐츠를 제외한 영역을 기준으로 grow와 shrink 설정
 flex-basis: 150px; 
 
-flex-order{숫자}
+flex-order{숫자} lex-item에 적용되는 속성으로 아이템 배치 순서 결정
 
 
 
