@@ -10,3 +10,36 @@
 
 
 *css
+svg파일 사진 색상 바꾸기
+svg파일 코드로 열기 코드에 fill="색상코드"
+
+text-indent: 40px  레이아웃에 영향을 주고 싶지 않을때 텍스트 들여쓰기
+
+
+flex-grow: 0;  기본값. 강제로 컨테이너를 채우지 않음
+flex-grow: 1; 각 아이템들의 비율을 1로 증가하여 컨테이너 채움
+flex-grow: 1; 1:1:1:1
+flex-grow: 1; flex-grow: 2; 1:1:1:2
+flex-grow: 1; flex-grow: 2; flex-grow: 2;/ flex-grow: 3;
+width:300px; flex-grow: 1; flex-grow: 2; flex-grow: 1;
+
+
+flex-shrink: 0;  width값 그대로 적용. 즉 넘치는 경우 컨테이너를 넘김
+flex-shrink: 1/ flex-shrink: 2
+flex-shrink: 1/ flex-shrink: 2/ flex-shrink: 1;
+
+
+
+flex-basis: auto; 기본값. 아이템 컨텐츠 크기에 맞춰 grow 비율 설정
+
+flex-basis: 0; 플렉스아이템의 컨텐츠를 제외한 영역을 기준으로 grow와 shrink 설정
+flex-basis: 150px; 
+
+flex-order{숫자}
+
+
+
+
+
+
+
