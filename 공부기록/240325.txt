@@ -1,0 +1,29 @@
+*UI/UX디자인 팀프로젝트 교재 137p
+
+와이어프레임
+메인 페이지- 서브페이지 연결/설명
+
+*css
+layout.css 이어서 css 작성 완료
+common header footer 영역별로 css 나눠서 만들고
+
+페이지 서로 연결하는 방법
+position : 요소의 배치
+static; 기본 값. 아무런 특성이 없기 때문에 주로 다른 포지션 값이
+                   적용된 요소를 초기화 하고자 할 때 사용
+
+relative; 일반적인 흐름에 따라 자기 자신을 기준으로 위치 지정.
+           top, right, bottom, left 위치 특성과 함께 사용되거나 생략될 수 있음.
+
+absolute; 일반적인 흐름에서 벗어나며 포지션이 적용된
+             가장 가까운 부모 요소를 기준으로 위치 지정.
+             top, right, bottom, left 위치 특성과 함께 사용.
+             나랑가장 가까운 부모를 기준(형제는 상관 없음)
+      
+fixed; 일반적인 흐름에서 벗어나며 브라우저를 기준으로 위치 지정.
+        top, right, bottom, left 위치 특성과 함께 사용
+        transform, perspective, filter 특성이 부모요소에 적용되어 있으면
+        그 요소를 기준으로 삼음.
+
+sticy; 일반적인 흐름을 가지거나 top, right, bottom, left의 값에 따라
+        offser적용(스크롤 이벤트)
