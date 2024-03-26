@@ -1,0 +1,36 @@
+*UI/UX디자인 팀프로젝트
+
+와이어프레임
+메인 페이지- 서브페이지 연결/설명 만들기2
+
+*css
+position Ex2
+
+asset 폴더 만들어서 폰트랑 리셋링크 연결
+
+<minireset/reset.css수정>
+
+button,
+input,
+select {
+  margin: 0;
+  outline: none;
+}
+
+img,
+video {
+  height: auto;
+  vertical-align: top;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+
+*스크롤바
+<https://caniuse.com/?search=scrollbar>
+
+스크롤 부드럽게 움직이기
+scroll-behavior: smooth;
