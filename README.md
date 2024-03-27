@@ -166,4 +166,22 @@
 
 # 240322
 **UI/UX:** 팀 프로젝트(사용자 시나리오, 정보구조도IA, 메뉴트리-정보구조도)  
+**css:** reset 연결, 웹폰트 연결 설정  
+
+# 240325
+**UI/UX:** 팀 프로젝트(wireframe+workflow)  
+**css:** position(static, relative, absolute, fixed)
+
+# 240326
+**UI/UX:** 팀 프로젝트(wireframe+workflow)  
+**css:** reset링크 연결  
+- 스크롤바 scroll-behavior: smooth;  
+
+# 240327
+**UI/UX:** 팀 프로젝트(wireframe+workflow, prototype)  
 **css:** 
+- body::-webkit-scrollbar  
+- body::-webkit-scrollbar-trake  
+- body::-webkit-scrollbar-thumb
+- position(sticky)  
+- z-index  
