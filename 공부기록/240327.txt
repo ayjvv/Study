@@ -1,0 +1,36 @@
+*css 
+
+/* 스크롤바 가로 크기 */
+
+body::-webkit-scrollbar{
+  width: 8px;
+}
+
+/* 스크롤바 배경 */
+body::-webkit-scrollbar-track{
+  background-color: #C4E4FF;
+}
+
+/* 스크롤바 핸들 */
+body::-webkit-scrollbar-thumb{
+  background: #D20062;
+  border: 1px solid #D895DA;
+  border-radius: 5px;
+}
+
+
+<position: sticky;>
+top:0;  고정할 곳의 위치
+
+해당 요소가 위치 특성 값이 지정한 곳에 도달하면 고정 위치의 포지션으로 성격이 바뀜
+  1. 부모 요소들 중 하나라도 overflow:hidden이 적용되어 있으면 동작하지 않음
+  2. height 값이 %로 설정된 경우 동작하지 않음
+  3. top, right, left, bottom 중 반드시 하나만 작성되어야 하며 작성하지 않으면 relative와 동일한 성격을 가짐
+
+<z-index>
+1-10-100-1000...
+9-99-999-9999...
+
+*css
+wireframe+workflow
+prototype 디자인 
