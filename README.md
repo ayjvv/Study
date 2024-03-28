@@ -185,3 +185,12 @@
 - body::-webkit-scrollbar-thumb
 - position(sticky)  
 - z-index  
+
+
+# 240328
+**UI/UX:** 팀 프로젝트(wireframe+workflow, prototype)  
+**css:** 
+- object-fit(fill,contain,cover,none,cale-down)  
+- object-position  
+- aspect-ratio
+- 가변비디오  
