@@ -1,0 +1,13 @@
+*css
+position Ex 7
+이미지 넣기 https://picsum.photos/
+
+<object-fit>
+object-fit: fill;  기본값. 비율 상관 없이 가득 채움
+object-fit: contain; 비율 유지. 원본이 전부 보여짐. 대신 일부 여백이 생길 수 있음
+object-fit: cover;  비율 유지. 원본이 부모 영역을 가득 채우나 일부 가려지는 부분이 있을 수 있음
+object-fit: none;  원본사이즈. 크기 조절x
+object-fit: scale-down;  none과 contain 중 이미지 크기가 더 작아지는 값 선택 
+
+<object-position>
+object-position: 50% 50%;  기본값 x축 y축 
