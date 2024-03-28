@@ -31,6 +31,8 @@ top:0;  고정할 곳의 위치
 1-10-100-1000...
 9-99-999-9999...
 
-*css
+
+
+*UI/UX디자인 팀프로젝트
 wireframe+workflow
 prototype 디자인 
