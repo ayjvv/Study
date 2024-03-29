@@ -10,4 +10,30 @@ object-fit: none;  원본사이즈. 크기 조절x
 object-fit: scale-down;  none과 contain 중 이미지 크기가 더 작아지는 값 선택 
 
 <object-position>
-object-position: 50% 50%;  기본값 x축 y축 
+ object-position: 50% 50%; 기본값 x축 y축 
+ object-position: center;
+ object-position: 100px 50px;
+ object-position: 100% 50%;  == right center 
+ object-position: 20%; 20% 50% 한자리 숫자 작성시 두번째 y축은 50%가 기본 
+
+<aspect-ratio>
+aspect-ratio: auto;  기본 값 
+aspect-ratio: 1 / 1; }  가로 기준 1: 세로비율 1 
+aspect-ratio: 1; }  ==1/1
+aspect-ratio: 3; }  ==3/1  한자리 수의 경우 높이 비율 1이 생략된 것 
+aspect-ratio: 16 / 9; } youtube 
+aspect-ratio: 0.5; }  1/2
+aspect-ratio: auto 1 / 1; }  기본값을 가지고 있는 경우 기본값 적용. 없는 경우 지정한 비율 적용
+
+<적용안되는 경우>
+aspect-ratio: 2 / 1;  가로 세로 값이 같이 적용된 경우x 
+aspect-ratio: 3 / 1; 컨텐츠가 넘치는 경우 적용x 
+
+video 유튜브 비율 조절 16/9
+
+가변비디오
+
+
+*UI/UX디자인 팀프로젝트
+wireframe+workflow
+prototype 디자인 
