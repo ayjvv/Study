@@ -1,4 +1,14 @@
 *css
 css 외부링크 리셋 연결하기
+/* reset */
 @import url('../asset/styles/reset.css');
+
+/* fonts */
+@import url('../asset/styles/spoqaHanSans.css');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
 nav Ex1, navEx2
+
+*UI/UX디자인 팀프로젝트
+prototype 디자인 
