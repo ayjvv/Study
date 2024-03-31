@@ -192,5 +192,12 @@
 **css:** 
 - object-fit(fill,contain,cover,none,cale-down)  
 - object-position  
-- aspect-ratio
+- aspect-ratio  
 - 가변비디오  
+
+
+# 240329
+**UI/UX:** 팀 프로젝트(prototype)  
+**css:** 
+- nav Ex1, navEx2  
+- css 외부링크 reset, fonts 연결하기  
