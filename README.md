@@ -200,4 +200,9 @@
 **UI/UX:** 팀 프로젝트(prototype)  
 **css:** 
 - nav Ex1, navEx2  
-- css 외부링크 reset, fonts 연결하기  
+- css 외부링크 reset, fonts 연결하기
+
+
+# 240401
+**UI/UX:** 팀 프로젝트(prototype)  
+**css:** 
