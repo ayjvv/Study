@@ -1,0 +1,10 @@
+*css
+
+ /* 움직임 속성 */
+ transition-property: width, height, background-color, font-weight, color font-size;
+
+ /* 움직임 진행시간 */
+ transition-duration: 1s; /* css 속도 단위: s 초, ms 밀리세컨초 *
+
+<transition-delay>
+
