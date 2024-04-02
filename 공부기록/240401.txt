@@ -6,5 +6,15 @@
  /* 움직임 진행시간 */
  transition-duration: 1s; /* css 속도 단위: s 초, ms 밀리세컨초 *
 
-<transition-delay>
 
+transition-delay() 시간차
+transform1_scale() 크기
+transform:rotate() 회전
+transform:skew() 기울기
+transform:translate() 이동
+transform-origin 기준축
+
+
+
+*UI/UX디자인 팀프로젝트
+prototype 디자인 
