@@ -206,3 +206,26 @@
 # 240401
 **UI/UX:** 팀 프로젝트(prototype)  
 **css:** 
+- transition-property
+- transition-duration
+- transition-delay
+- transform1_scale
+- transform:rotate
+- transform:skew
+- transform:translate
+- transform-origin
+
+# 240402
+**UI/UX:** 팀 프로젝트(prototype, 디자인 소스)  
+**css:** 
+- transform: perspective
+- perspective
+-  이동 가능한 css 속성
+
+# 240403
+**UI/UX:** 팀 프로젝트(prototype, 디자인 소스, 발표준비, 체크리스트 확인)  
+**css:** 
+- animation-name
+- animation-duration
+- animation-delay
+- animation-timing-function
