@@ -13,3 +13,4 @@ perspective: 40vw;
 
 *UI/UX디자인 팀프로젝트
 prototype 디자인 
+디자인 소스

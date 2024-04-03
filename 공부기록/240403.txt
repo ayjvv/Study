@@ -1,0 +1,12 @@
+*css
+transEx4, 5
+
+animation-name: ani1; /* 애니메이션 이름. 키프레임에 부여한 이름*/
+animation-duration: 2s; /* 진행시간 */
+animation-delay: 0.5s;  /* 대기시간 */
+animation-timing-function: linear; /* 움직임 스타일 */
+
+*UI/UX디자인 팀프로젝트
+prototype 디자인 
+발표준비
+체크리스트 확인
