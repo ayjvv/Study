@@ -6,6 +6,18 @@ animation-duration: 2s; /* 진행시간 */
 animation-delay: 0.5s;  /* 대기시간 */
 animation-timing-function: linear; /* 움직임 스타일 */
 
+
+  @keyframes ani1 {
+       /* 사용자 정의 이름 */
+      from {
+        /* 움직임 시작 */
+      }
+
+      to {
+        /* 움직임 끝 */
+      }
+    }
+
 *UI/UX디자인 팀프로젝트
 prototype 디자인 
 발표준비
