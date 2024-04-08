@@ -33,3 +33,7 @@ animation-direction: alternate; /* 순방향 진행 후 역방향 진행 1>2>3>2
  /* 일시 멈춤 */
 
 text-shadow
+
+*UI/UX디자인 팀프로젝트
+prototype 디자인 
+발표준비
