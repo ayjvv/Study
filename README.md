@@ -1,5 +1,21 @@
-# 240403
-**UI/UX:** 팀 프로젝트(prototype, 디자인 소스, 발표준비, 체크리스트 확인)  
+# 240408
+**UI/UX:** UI/UX디자인 팀 프로젝트 분석 기획 평가 보고서 작성    
+**css:** pen star 웹사이트 구현   
+
+# 240405  
+**UI/UX:** UI/UX디자인 팀 프로젝트 평가(발표)    
+
+# 240404
+**UI/UX:** UI/UX디자인 팀 프로젝트(발표준비,PPT,대본)  
+**css:**   
+- animation-iteration-count(infinite,숫자)
+- animation-fill-mode(backwards,forwards)
+- animation-direction(normal,reverse,alternate-reverse,alternate)
+-  animation-play-state(paused)  
+
+
+# 240403  
+**UI/UX:** UI/UX디자인 팀 프로젝트(prototype, 디자인 소스, 발표준비, 체크리스트 확인)  
 **css:** 
 - animation-name
 - animation-duration
@@ -7,7 +23,7 @@
 - animation-timing-function
 
 # 240402
-**UI/UX:** 팀 프로젝트(prototype, 디자인 소스)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(prototype, 디자인 소스)  
 **css:** 
 - transform: perspective
 - perspective
@@ -15,7 +31,7 @@
 
 
 # 240401
-**UI/UX:** 팀 프로젝트(prototype)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(prototype)  
 **css:** 
 - transition-property
 - transition-duration
@@ -27,14 +43,14 @@
 - transform-origin
 
 # 240329
-**UI/UX:** 팀 프로젝트(prototype)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(prototype)  
 **css:** 
 - nav Ex1, navEx2  
 - css 외부링크 reset, fonts 연결하기
 
 
 # 240328
-**UI/UX:** 팀 프로젝트(wireframe+workflow, prototype)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow, prototype)  
 **css:** 
 - object-fit(fill,contain,cover,none,cale-down)  
 - object-position  
@@ -42,7 +58,7 @@
 - 가변비디오  
 
 # 240327
-**UI/UX:** 팀 프로젝트(wireframe+workflow, prototype)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow, prototype)  
 **css:** 
 - body::-webkit-scrollbar  
 - body::-webkit-scrollbar-trake  
@@ -51,20 +67,20 @@
 - z-index 
 
 # 240326
-**UI/UX:** 팀 프로젝트(wireframe+workflow)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow)  
 **css:** reset링크 연결  
 - 스크롤바 scroll-behavior: smooth;  
 
 # 240325
-**UI/UX:** 팀 프로젝트(wireframe+workflow)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow)  
 **css:** position(static, relative, absolute, fixed)
 
 # 240322
-**UI/UX:** 팀 프로젝트(사용자 시나리오, 정보구조도IA, 메뉴트리-정보구조도)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(사용자 시나리오, 정보구조도IA, 메뉴트리-정보구조도)  
 **css:** reset 연결, 웹폰트 연결 설정 
 
 # 240321
-**UI/UX:** 팀 프로젝트(개선할 점, 사용자 니즈파악, 페르소나, UX VISION, As is->To be)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(개선할 점, 사용자 니즈파악, 페르소나, UX VISION, As is->To be)  
 **css:** 
 - svg파일 색상 바꾸기  
 - flex-grow  
@@ -73,7 +89,7 @@
 - flex-order 
 
 # 240320
-**UI/UX:** 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT), 팀 발표}  
+**UI/UX:** UI/UX디자인 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT), 팀 발표}  
 **css:** 
 - .gnb li:first-child a 첫번째 자식의 선택  
 - background-image:url()  
@@ -82,7 +98,7 @@
 - background-size (x축,y축, %, contain, cover)
 
 # 240319
-**UI/UX:** 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT)}  
+**UI/UX:** UI/UX디자인 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT)}  
 **css:** 
 -  flex 예제9  
 -  <수열 선택자>   
@@ -91,7 +107,7 @@
 -  (even) 짝수/(odd) 홀수/(3n+1) 3개를 기준으로 첫번째/(3n) 3번째
 
 # 240318
-**UI/UX:** 팀 프로젝트(프로젝트명, 팀리더, 팀원, 주제, 벤치마킹 사이트 및 앱 정함)  
+**UI/UX:** UI/UX디자인 팀 프로젝트(프로젝트명, 팀리더, 팀원, 주제, 벤치마킹 사이트 및 앱 정함)  
 **css:** flexEx 7,8,9
 
 # 240315
