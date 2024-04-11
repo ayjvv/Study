@@ -1,0 +1,33 @@
+*css
+pan star 웹사이트 구현 <footer>부분
+
+
+<grid>
+grid : row(행) / colum(열)
+grid-container 속성 : gird-template, grid-area, gap, justify-content, aling-item...
+grid-item 속성 : grid-row, grid-columm, jutify-self, align-self...
+
+<행 row>
+ /* 1행 2행 3행 4행의 높이(세로) 값 */
+grid-template-rows: 100px 200px 150px 50px;
+/* 부모 요소의 높이 값이 지정되어 있지 않으면 아이템들끼리 상대 비율로 적용 */
+grid-template-rows: 20% 20% 40% 40%;
+
+ grid-template-rows: 1fr 2fr 2fr 3fr;
+*fr(fraction) 비율, 분수
+     1행: 1/8 (전체숫자의 합)
+     2행: 2/8
+     3행: 2/8
+     4행: 3/8
+
+
+ <열 column>
+/* 1열 2열 3열 4열의 너비(가로) 값 */
+grid-template-columns: 100px 200px 150px 50px;
+/* 2열 */
+grid-template-columns: 30vh 10em;
+/* 1열 1fr == 100% */
+grid-template-columns: 1fr;
+
+<grid-template: minmax(최소값, 최댓값)>
+
