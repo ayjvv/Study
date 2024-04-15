@@ -1,3 +1,35 @@
 *css
 pan star 웹사이트 구현
 
+<중앙정렬>
+ left: 50%;
+  transform: translateX(-50%);
+
+<말줄임>
+ /* 한 줄 밑줄임 .... */
+  /* width: 400px;
+  text-overflow: ellipsis; 말줄임
+  white-space: nowrap; 자동 줄바꿈 금지
+  overflow: hidden; */
+
+  /* 여러줄 말 줄임.... */
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2; /* 여러 줄일 때 텍스트를 자르는 줄 */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+
+
+<리스트 기호추가>
+
+@counter-style emojik{
+  system: cyclic; /* 같은 값 반복 */
+  symbols: "🌼";
+  suffix: " "; /* 머릿말 기호 다음 처리 방식 */
+}
+
+<진행방향>
+  /* float: right; 요소의 진행 방향 설정.
+left,right 두 값만 존재. 최근엔 잘 사용하지 않음 */
+
+*카카오톡 지도 가져오기

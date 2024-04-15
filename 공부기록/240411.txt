@@ -7,6 +7,7 @@ grid : row(행) / colum(열)
 grid-container 속성 : gird-template, grid-area, gap, justify-content, aling-item...
 grid-item 속성 : grid-row, grid-columm, jutify-self, align-self...
 
+
 <행 row>
  /* 1행 2행 3행 4행의 높이(세로) 값 */
 grid-template-rows: 100px 200px 150px 50px;
@@ -21,13 +22,73 @@ grid-template-rows: 20% 20% 40% 40%;
      4행: 3/8
 
 
+
  <열 column>
 /* 1열 2열 3열 4열의 너비(가로) 값 */
 grid-template-columns: 100px 200px 150px 50px;
+
 /* 2열 */
 grid-template-columns: 30vh 10em;
+
 /* 1열 1fr == 100% */
 grid-template-columns: 1fr;
 
+
 <grid-template: minmax(최소값, 최댓값)>
 
+<gap: 열과 행의 간격(gutter)>
+row-gap: 2vw; / column-gap: 2ch;
+
+<repeat(반복횟수, 크기); 행과 열의 값 반복>
+
+<grid-auto-rows: 명시된 행 외의 줄 추가>
+ /* 1행 2열 */
+      /* 템플릿으로 값을 지정(명시적 그리드)하게 되면 그 외의 셀은 컨텐츠가 가지고 있는 값만 가짐 */
+      grid-template: 70px / 1fr 1fr;
+
+      /* 암시적 그리드: 명시적 그리드 외 추가되는 행의 크기를 정의 */
+      /* grid-auto-rows: auto; 기본값 */
+      grid-auto-rows: 100px;
+
+
+<grid-auto-rows>
+/* grid-template-columns: 1fr 1fr;
+     grid-template-rows: 10vw 10vw 10vw 10vw; */
+      grid-auto-rows: 10vw;
+      /* min-content: 트랙 콘텐츠가 넘치지 않게 하면서 가능한 한 트랙을 작게 만듦. 텍스트 중 가장 짧은 단어를 기준으로 가로 사이즈 지정 */
+      grid-auto-columns: min-content;
+
+grid-auto-rows: 10vw;
+ /* max-content: 컨텐츠 기준 가장 긴 부분의 내용에 따라 가로 사이즈 지정. 문자열이 줄바꿈 되지 않으면 오버플로가 발생할 수 있음 */
+grid-auto-columns: max-content;
+
+
+<grid line: 셀 제어>
+grid-row: 2 /5;
+grid-column: -1 / -3;
+
+
+<그리드 아이템 정렬: justify-content, aling-content>
+/* row 기준 정렬 */
+justify-content
+
+<column 기준 정렬. 셀 안에서 개별 정렬>
+align-items
+
+<order: flex-item, grid-item에 적용. 아이템들의 순서를 정함>
+/* row 기준 */
+ justify-self
+
+/* column기준. grid-item에 적용 */
+align-self
+
+
+place-self: end; /* col row */
+order: 2;(순서변경)
+
+
+< 컨테이너의 크기가 커지면 여백없이 채우고 작아지면 아이템 자동 줄바꿈 >
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+
+<아이템이 원래 크기를 유지하고 컨테이너의 영역에 여백이 생길 수 있음 >
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));

@@ -1,0 +1,17 @@
+*css
+mqEx 1,2,3
+
+grid-column: auto; /* 이전의 값 초기화 */
+
+
+*script 맛보기
+<script>
+  const(변수) mobileBtn = document.querySelector(".mobile-btn")
+  const globalMenu = document.querySelector(".global-menu")
+
+  mobileBtn.addEventListener('click'눌렀다가 땟을때), ()함수 => globalMenu.classList.toggle('active'))
+</script>
+
+
+
+https://placehold.co/
