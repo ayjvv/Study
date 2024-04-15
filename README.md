@@ -1,3 +1,22 @@
+# 240415
+**css:**
+
+# 240412
+**css:**
+
+# 240411
+**css:**
+- grid : row(행) / colum(열)
+- grid-template-rows
+- grid-template-columns
+- grid-template: minmax
+- gap/row-gap/ column-gap
+- repeat(반복횟수, 크기)
+- grid-auto-rows/ grid-auto-columns
+- grid-row/ grid-column
+- place-self
+- order(순서변경)
+
 # 240410
 **css:** pen star 웹사이트 구현 
 
