@@ -33,3 +33,11 @@ pan star 웹사이트 구현
 left,right 두 값만 존재. 최근엔 잘 사용하지 않음 */
 
 *카카오톡 지도 가져오기
+카카오디벨로퍼
+
+ <div class="location-kakao">
+    <div id="map">지도</div>
+  </div>
+
+문서-지도-지도skd사이트-web-wizard-발급받은키: 내어플리케이션-자바스크립트 키 복붙
+위도,경도-구글에서 (위 아래 둘다 바꿔야함)
