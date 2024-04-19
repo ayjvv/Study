@@ -1,5 +1,5 @@
 *css
-
+girdEx6~7
 writing-mode: vertical-lr; /* 텍스트의 진행 방향의 가로, 세로 정렬. 상속 */
 text-orientation: upright; /*  writing-mode */
 letter-spacing: 2px; /* 글자 자간 */
@@ -9,23 +9,25 @@ letter-spacing: 2px; /* 글자 자간 */
 <meta name="viewport" content="width=device-witdth, initial-scal=1.0"> 
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
 (네이버 코드에서 복사)
-title 밑에 반드시 작성
-
-
+모바일 버전 작성시 title 밑에 반드시 작성
+미디어쿼리 작성시 viewport값은 필수
+모바일 웹페이지가 모바일에 맞게 보이려면 viewport값 필수
 -화면을 제어하는 메타태그로 기기의 보이는 영역을 기기의 실제 화면 크기로 변경하여
 미디어쿼리가 기기의 화면 크기를 정확하게 감지할 수 있게 함
 
-미디어쿼리 작성시 viewport값은 필수
-모바일 웹페이지가 모바일에 맞게 보이려면 viewport값 필수
-width=device-witdth; 해상도의 크기를 기기의 크기와 맞춤
+
+/*width=device-witdth; 해상도의 크기를 기기의 크기와 맞춤
 initial-scal=1.0; 기본 크기
 maximum-scal=1.0; 확대 안됨
 maximum-scal=1.0; 축소 안됨
-user-scal=no; 사용자의 확대 축소 안됨
+user-scal=no; 사용자의 확대 축소 안됨*/
 
 
 <mediaQueries>
-
+미디어쿼리 작성시 뷰포트 값 필수
  <@media screen and (min-width: 768px)  스크린의 가로크기가 768 이상이면 적용 >
 <@media (width >= 1200px)  스크린의 가로크기가 1200 이상이면 적용>
+<@media screen and (min-width: 414px) and  (max-width: 768px)
+스크린의 가로 크기가 최소 414px이상이면 768px 이하 적용 실행문>
 
+mqEx1~3

@@ -1,9 +1,13 @@
 *css
-pan star 웹사이트 구현
+pan star 웹사이트 구현 문제풀이
 
 <중앙정렬>
  left: 50%;
   transform: translateX(-50%);
+
+<한글 단어 기준으로 줄바꿈 >
+word-break: break-all;
+overflow-wrap: break-word;
 
 <말줄임>
  /* 한 줄 밑줄임 .... */
@@ -32,7 +36,10 @@ pan star 웹사이트 구현
   /* float: right; 요소의 진행 방향 설정.
 left,right 두 값만 존재. 최근엔 잘 사용하지 않음 */
 
-*카카오톡 지도 가져오기
+<youtube>
+ youtube 옵션 ~/embed/유튜브비디오아이디&amp;옵션1=값&반복=true&음소거=true&자동실행=true
+
+<카카오톡 지도 가져오기>
 카카오디벨로퍼
 
  <div class="location-kakao">

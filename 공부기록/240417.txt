@@ -1,3 +1,7 @@
 *css 평가
-피그마 모바일 리디자인 가져와서
-구현하기
+피그마 모바일 리디자인 가져와서 css구현하기
+
+https://bdmp-003.cafe24.com/bizdemo154993/ 원본 url
+
+https://koreard.co.kr/ 리디자인 url
+

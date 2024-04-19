@@ -92,3 +92,6 @@ order: 2;(순서변경)
 
 <아이템이 원래 크기를 유지하고 컨테이너의 영역에 여백이 생길 수 있음 >
       grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+
+girdBasic1~10
+girdEx1~6

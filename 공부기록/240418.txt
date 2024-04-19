@@ -1,2 +1,31 @@
 *css
-pc버전 최소 1400이상의 크기에서도 잘 보일 수 있게끔 작업
+pc버전 최소 1200~1400이상의 크기에서도 잘 보일 수 있게 작업
+(레이아웃 무너지지않게)
+
+dyami web 사이트 구현 문제풀이
+https://bdmp-001.cafe24.com/bizdemo144534/
+
+#<!-- 성능 최적화를 고려한다면 link, 관리를 고려한다면 @import -->
+  <link rel="stylesheet" href="../asset/styles/reset.css">
+
+#/* 요소 뒤 영역에 그래픽 효과 적용, 팝업창 뒷 배경 흐리게 처리할때 */
+  backdrop-filter: grayscale(50%) blur(2px);
+  background-color: rgb(255, 255, 255, 0.6);
+
+#section/ article 제목태그가 있어야함
+
+<변수>
+/* 전역변수 */
+  :root
+
+/* 선언(설정) */
+폰트 --font-m-ko /--이름: ;
+폰트 사이즈--font-title-xlg
+컬러  --color-primary
+
+/*적용*/
+font-size: var(--이름);
+
+
+*240419
+calendar 예제 과제
