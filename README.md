@@ -186,7 +186,7 @@
 - 투명도 opacity  
 - accent-color(progress, input type= range)  
 - 컨텐츠 앞뒤 적용 ::before,::after
-- line-height
+- 행간 line-height
 
 # 240312
 **figma:** 모바일 사이트 리디자인  
