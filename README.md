@@ -1,14 +1,27 @@
-# 240417
+# 240418,19
 **css:**
+-  dyami web 사이트 구현하기(https://bdmp-001.cafe24.com/bizdemo144534/)
 
 # 240417
 **css:**
+- <평가>피그마 모바일 리디자인 가져와서 css구현하기
+- 원본 url (https://bdmp-003.cafe24.com/bizdemo154993/)
+- 리디자인 url(https://koreard.co.kr/)
 
 # 240415,16
 **css:**
+- grid-column: auto;
+- script 맛보기
+- dyami web 사이트 구현하기(https://bdmp-001.cafe24.com/bizdemo144534/)
 
 # 240412
 **css:**
+- writing-mode: vertical-lr;(텍스트진행방향)  
+- text-orientation: upright;(글자방향)
+- letter-spacing(글자자간)
+- viewport / no viewport(미디어쿼리)
+- 모바일 웹페이지가 모바일에 맞게 보이려면 viewport값 (meat)필수
+- 미디어쿼리 작성시 viewport값(@media screen)은 필수
 
 # 240411
 **css:**
