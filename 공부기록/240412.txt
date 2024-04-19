@@ -1,7 +1,7 @@
 *css
 girdEx6~7
 writing-mode: vertical-lr; /* 텍스트의 진행 방향의 가로, 세로 정렬. 상속 */
-text-orientation: upright; /*  writing-mode */
+text-orientation: upright; /*  writing-mode 작성시 영어의 글자 방향*/
 letter-spacing: 2px; /* 글자 자간 */
 
 
@@ -10,7 +10,6 @@ letter-spacing: 2px; /* 글자 자간 */
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
 (네이버 코드에서 복사)
 모바일 버전 작성시 title 밑에 반드시 작성
-미디어쿼리 작성시 viewport값은 필수
 모바일 웹페이지가 모바일에 맞게 보이려면 viewport값 필수
 -화면을 제어하는 메타태그로 기기의 보이는 영역을 기기의 실제 화면 크기로 변경하여
 미디어쿼리가 기기의 화면 크기를 정확하게 감지할 수 있게 함

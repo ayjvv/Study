@@ -72,12 +72,13 @@ grid-column: -1 / -3;
 /* row 기준 정렬 */
 justify-content
 
-<column 기준 정렬. 셀 안에서 개별 정렬>
-align-items
-
 <order: flex-item, grid-item에 적용. 아이템들의 순서를 정함>
 /* row 기준 */
  justify-self
+
+
+<column 기준 정렬. 셀 안에서 개별 정렬>
+align-items
 
 /* column기준. grid-item에 적용 */
 align-self

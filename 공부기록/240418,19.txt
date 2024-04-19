@@ -27,6 +27,7 @@ pc버전 최소 1200~1400이상의 크기에서도 잘 보일 수 있게 작업
 /*적용*/
 font-size: var(--이름);
 
+<스와이퍼>
 https://swiperjs.com/get-started
 
 
