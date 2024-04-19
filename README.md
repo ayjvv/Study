@@ -1,10 +1,10 @@
 # 240418,19
 **css:**
--  dyami web 사이트 구현하기(https://bdmp-001.cafe24.com/bizdemo144534/)
+-  dyami web 사이트 구현 문제 풀이(https://bdmp-001.cafe24.com/bizdemo144534/)
 
 # 240417
 **css:**
-- <평가>피그마 모바일 리디자인 가져와서 css구현하기
+- <css 평가>피그마 모바일 리디자인 가져와서 css구현하기
 - 원본 url (https://bdmp-003.cafe24.com/bizdemo154993/)
 - 리디자인 url(https://koreard.co.kr/)
 
@@ -36,20 +36,18 @@
 - place-self
 - order(순서변경)
 
-# 240410
-**css:** pen star 웹사이트 구현 
+# 240409,10  
+**css:** penstar 웹사이트 구현 문제풀이(https://www.panstar.co.kr/en) 
+- 
 
-# 240409
-**css:** pen star 웹사이트 구현 
-
-# 240408
-**UI/UX:** UI/UX디자인 팀 프로젝트 분석 기획 평가 보고서 작성    
-**css:** pen star 웹사이트 구현   
+# 240408  
+**css:** penstar 웹사이트 구현(https://www.panstar.co.kr/en) 
+**UI/UX:** <UI/UX디자인 평가> UI/UX디자인 팀 프로젝트 분석 기획 보고서 작성     
 
 # 240405  
-**UI/UX:** UI/UX디자인 팀 프로젝트 평가(발표)    
+**UI/UX:** <UI/UX디자인 평가>UI/UX디자인 팀 프로젝트(발표)    
 
-# 240404
+# 240404  
 **UI/UX:** UI/UX디자인 팀 프로젝트(발표준비,PPT,대본)  
 **css:**   
 - animation-iteration-count(infinite,숫자)
