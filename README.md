@@ -4,7 +4,7 @@
 -  요소 뒤 그래픽 효과 backdrop-filter
 -  변수 :root
 -  선언 --이름: ;
--  적용 var(--이름);스
+-  적용 var(--이름);
 -  스와이퍼 https://swiperjs.com/get-started
 
 # 240417
