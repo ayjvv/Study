@@ -1,6 +1,11 @@
 # 240418,19
 **css:**
 -  dyami web 사이트 구현 문제 풀이(https://bdmp-001.cafe24.com/bizdemo144534/)
+-  요소 뒤 그래픽 효과 backdrop-filter
+-  변수 :root
+-  선언 --이름: ;
+-  적용 var(--이름);스
+-  스와이퍼 https://swiperjs.com/get-started
 
 # 240417
 **css:**
@@ -10,35 +15,39 @@
 
 # 240415,16
 **css:**
-- grid-column: auto;
+- 이전 값 초기화 grid-column: auto;
 - script 맛보기
 - dyami web 사이트 구현하기(https://bdmp-001.cafe24.com/bizdemo144534/)
 
 # 240412
 **css:**
-- writing-mode: vertical-lr;(텍스트진행방향)  
-- text-orientation: upright;(글자방향)
-- letter-spacing(글자자간)
-- viewport / no viewport(미디어쿼리)
+- 텍스트 진행 방향 writing-mode: vertical-lr; 
+- 글자 방향 text-orientation: upright;
+- 글자 자간 letter-spacing
+- 미디어쿼리 viewport / no viewport
 - 모바일 웹페이지가 모바일에 맞게 보이려면 viewport값 (meat)필수
 - 미디어쿼리 작성시 viewport값(@media screen)은 필수
 
 # 240411
 **css:**
 - grid : row(행) / colum(열)
-- grid-template-rows
-- grid-template-columns
+- 행의 높이 값 grid-template-rows
+- 열의 너비 값grid-template-columns
 - grid-template: minmax
 - gap/row-gap/ column-gap
 - repeat(반복횟수, 크기)
-- grid-auto-rows/ grid-auto-columns
-- grid-row/ grid-column
-- place-self
-- order(순서변경)
+- 줄 추가 grid-auto-rows/ grid-auto-columns
+- 셀 제어 grid-row/ grid-column
+- 정렬 (row: justify / column: align) place-self
+- 순서변경 order
 
 # 240409,10  
-**css:** penstar 웹사이트 구현 문제풀이(https://www.panstar.co.kr/en) 
-- 
+**css:** 
+- penstar 웹사이트 구현 문제풀이(https://www.panstar.co.kr/en)
+- 한글단어 기준 줄바꿈 word-break: break-all; / overflow-wrap: break-word;
+- 한줄,여러줄 말줄임
+- 리스트 기호추가
+- youtube,카카오톡 지도 가져오기  
 
 # 240408  
 **css:** penstar 웹사이트 구현(https://www.panstar.co.kr/en) 
@@ -50,39 +59,38 @@
 # 240404  
 **UI/UX:** UI/UX디자인 팀 프로젝트(발표준비,PPT,대본)  
 **css:**   
-- animation-iteration-count(infinite,숫자)
-- animation-fill-mode(backwards,forwards)
-- animation-direction(normal,reverse,alternate-reverse,alternate)
--  animation-play-state(paused)  
+- 반복횟수 animation-iteration-count(infinite,숫자)
+- 끝난 후 위치 animation-fill-mode(backwards,forwards)
+- 방향 animation-direction(normal,reverse,alternate-reverse,alternate)
+- 일시 멈춤 animation-play-state(paused)  
 
 
 # 240403  
 **UI/UX:** UI/UX디자인 팀 프로젝트(prototype, 디자인 소스, 발표준비, 체크리스트 확인)  
 **css:** 
-- animation-name
-- animation-duration
-- animation-delay
-- animation-timing-function
+- 이름 animation-name
+- 진행시간 animation-duration
+- 대기시간 animation-delay
+- 움직임 스타일 animation-timing-function
 
 # 240402
 **UI/UX:** UI/UX디자인 팀 프로젝트(prototype, 디자인 소스)  
 **css:** 
-- transform: perspective
-- perspective
+- 원근값 transform: perspective
 -  이동 가능한 css 속성
-
 
 # 240401
 **UI/UX:** UI/UX디자인 팀 프로젝트(prototype)  
 **css:** 
-- transition-property
-- transition-duration
-- transition-delay
-- transform1_scale
-- transform:rotate
-- transform:skew
-- transform:translate
-- transform-origin
+- 움직임 transition-property
+- 진행시간 transition-duration
+- 대기시간 transition-delay
+- 움직임 형태 제어transition-timing-function
+- 크기 transform1_scale
+- 회전 transform:rotate
+- 기울기 transform:skew
+- 이동 transform:translate
+- 기준축 transform-origin
 
 # 240329
 **UI/UX:** UI/UX디자인 팀 프로젝트(prototype)  
@@ -94,10 +102,10 @@
 # 240328
 **UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow, prototype)  
 **css:** 
-- object-fit(fill,contain,cover,none,cale-down)  
+- 이미지,비디오 비율 object-fit(fill,contain,cover,none,cale-down)  
 - object-position  
-- aspect-ratio  
-- 가변비디오  
+- 가로,세로 비율 aspect-ratio  
+- 가변비디오
 
 # 240327
 **UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow, prototype)  
@@ -105,8 +113,8 @@
 - body::-webkit-scrollbar  
 - body::-webkit-scrollbar-trake  
 - body::-webkit-scrollbar-thumb
-- position(sticky)  
-- z-index 
+- 스트롤 기준 위치 position(sticky)  
+- 계층 순위 z-index 
 
 # 240326
 **UI/UX:** UI/UX디자인 팀 프로젝트(wireframe+workflow)  
@@ -125,18 +133,18 @@
 **UI/UX:** UI/UX디자인 팀 프로젝트(개선할 점, 사용자 니즈파악, 페르소나, UX VISION, As is->To be)  
 **css:** 
 - svg파일 색상 바꾸기  
-- flex-grow  
-- flex-shrink  
-- flex-basis(auto, 0 ,px)
-- flex-order 
+- 비율 제어 flex-grow  
+- 감소 비율 flex-shrink  
+- 기준 비율 flex-basis(auto, 0 ,px)
+- 순서 flexItem: order 
 
 # 240320
 **UI/UX:** UI/UX디자인 팀 프로젝트{선정이유, 자사웹/앱분석, 경쟁사 앱 분석(SWOT), 팀 발표}  
 **css:** 
 - .gnb li:first-child a 첫번째 자식의 선택  
 - background-image:url()  
-- background-repeat(repeat, repeat-y, repeat-x)  
-- background-position(scroll, fixed)  
+- 반복 background-repeat(repeat, repeat-y, repeat-x)  
+- 위치 background-position(scroll, fixed)  
 - background-size (x축,y축, %, contain, cover)
 
 # 240319
@@ -154,7 +162,7 @@
 
 # 240315
 **css:** 
-- flex-flow, gap  
+- flex-flow, 여백 gap  
 - 주축/ justify-content(flex-start, flex-end, center, space-around,  
  space-between, space-evenly)
 - 교차축/ align-items(stretch, flex-start, lex-end, center)
@@ -165,19 +173,19 @@
 # 240314
 **UI/UX:** 디자인 이론 수업  
 **css:** 
-- em, rem, vw, vh  
+- 단위 em, rem, vw, vh  
 - display:flex
-- flex-direction(row, column, row-reverse, column-reverse)  
-- flex-wrap(nowrap, wrap, wrap-reverse)
+- 정렬 flex-direction(row, column, row-reverse, column-reverse)  
+- 줄바꿈 flex-wrap(nowrap, wrap, wrap-reverse)
 
 # 240313
 **figma:** 모바일 사이트 리디자인2  
 **css:** 
-- display(inline, block, line-block, none)  
+- 요소 성격 변경 display(inline, block, line-block, none)  
 - visibility(hidden, visible)
-- opacity  
+- 투명도 opacity  
 - accent-color(progress, input type= range)  
-- : = ::before,: = ::after
+- 컨텐츠 앞뒤 적용 ::before,::after
 - line-height
 
 # 240312
@@ -185,23 +193,22 @@
 **css:** 
 - max-width 이상/min-width 이하  
 - overflow: hidden(magin상쇄 현상 해결)  
-- outline: none  
-- empty-cells(show, hide)  
-- border-spacing  
-- border-collapse(separate, collapse)
+- 포커스 상태일 때 테두리 없앰 outline: none  
+- 컨텐츠가 없는 셀 처리 empty-cells(show, hide)  
+- 겹치는 셀 처리 border-spacing / border-collapse(separate, collapse)
 
 # 240311
 **figma:** 모바일 사이트 디자인 하기(와이어프레임 기준)  
 **css:** 
-- word-break(normal, break-all, keep-all),  
-- box-sizing(content-box, boder-box), 
-- overflow(inherit, visible, hidden, auto, scroll)
+- 줄바꿈 word-break(normal, break-all, keep-all),  
+- 요소 실제 크기2 box-sizing(content-box, boder-box), 
+- 넘치는 컨텐츠 제어 overflow(inherit, visible, hidden, auto, scroll)
 - overflow-x/-y
 
 # 240308
 **figma:** 마크업 분석, floating icon, slide  
 **css:** 
-- border-radius  
+- 둥근 모서리 border-radius  
 - magin+padding
 - list-style
 - 요소 실제 크기
@@ -209,8 +216,8 @@
 # 240307
 **figma:** 웹사이트 가져와서 와이어 프레임만들기  
 **css:** 
-- vertical-align(baseline, bottom, bottom, top)
-- border, padding, magin
+- 인라인 세로 정렬 vertical-align(baseline, bottom, bottom, top)
+- 테두리 border, 안쪽여백 padding, 바깥여백 magin
 - 블록 요소 중앙정렬(magin)
 
 # 240306
