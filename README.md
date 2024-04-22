@@ -1,3 +1,15 @@
+# 240422
+**javaScript:**
+- 코드팬 https://codepen.io/trending
+- 자바스크립트 연결(내부,외부)
+- Object.method(parameter);
+- 안내창 alert();, confirm();, prompt();
+- 변수1 var, 변수2 let(선언)
+- 상수 const
+- 데이터 타입 (문자열 String, 숫자 Number, 논리 Boolean, undefined, null, 객체 Object, 함수 Function, 배열 Array, typeof 연산자)
+- 산술연산자 (= 대입 혹은 할당, + 더하기, - 빼기, * 곱하기, / 나누기, % 나머지 값, ** 거듭제곱)
+- 문자열연산자 (더하기, 빼기, 곱하기, 나누기 ... 연산자)
+
 # 240418,19
 **css:**
 -  dyami web 사이트 구현 문제 풀이(https://bdmp-001.cafe24.com/bizdemo144534/)
