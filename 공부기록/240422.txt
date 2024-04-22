@@ -1,0 +1,170 @@
+*javaScript
+
+<vp-favicon-og-reset-공통내용css-레이아웃css-현재페이지css-kakao js-swiper js>
+
+<vp-js 플러그인 css링크-내가 작업한css-스와이퍼 js 링크>
+
+검색: to , convert , generator
+
+*코드팬- settings-js-링트 2개 타이틀 밑에 link-script 붙여넣기
+html 복붙, css 복붙 , js는 html맨 밑에 바디 위에 복붙
+- https://codepen.io/trending
+
+- https://jsonformatter.org/scss-to-css
+- https://zzz.dog/
+- https://www.data.go.kr/
+
+스크립트는 모든 작업이 끝난 후 마지막에 되어야하기 때문에 
+맨 밑 바디 위에 작성해야함
+
+*developer roadmap
+https://roadmap.sh/
+
+<자바스크립트 연결>
+ <!-- 내부선언 -->
+  <script type="text/javascript">
+  // 스크립트 한 줄 주석
+  // type 속성은 xml. xhtml 방식일 때 필수 이나 html에선 없는게 기본
+  // react에서는 type 속성 필수
+
+ /* 
+       스크립트 여러 줄 주석 처리 쉬프트+알트+에이
+       JS 작성시 주의사항
+      head 영역 등 DOM을 불러오기 전에 작성시 문서 준비 이벤트 필요
+*/
+  </script>
+
+ <!-- 외부선언 -->
+ <script src="./javaScriptBasic.js"></script>
+
+ <!-- 외부선언 타이틀, 메타 태그 밑에 / defer 속성 작성시 스크립트 내부에 문서 준비 이벤트 불필요 -->
+ <script src="./javaScriptBasic.js" defer></script>
+
+
+<JS>
+이 대상. 이 곳에 (이 동작);
+//Object.method(parameter); 객체. 메서드(매개변수);
+.연결 ;끝남
+console.log("메세지 출력"); //콘솔 영역에 출력
+console.debug("log와 마찬가지로 콘솔 영역에 출력");
+console.clear();
+
+//문서에 hello JavaScript 작성/ 도큐먼트 객체. 바디타입 선택자를 내가 선택하겠다. 에이치티엠엘에 / 순차적 위에서 아래로 읽힌다.
+document.querySelector("body").innerHTML = "Hello JavaScript";
+
+<안내창>
+  // jsDialog.html
+
+  // 사용자 입출력, 알림 
+
+  // 알림, 경고창
+  window.alert();
+  alert('알림창입니다');
+
+  // 확인창. 확인(true), 취소(false) 버튼을 가진 창
+  // confirm();
+  // confirm('확인 창입니까?');
+
+
+  // 입력창('메세지', '생략 가능한 입력값')
+  // prompt();
+  prompt('입력값을 작성하세요','이 곳에 작성하세요');
+
+<변수1>
+ // 변수 선언
+    var apple;
+    console.log(apple); // undefined: 변수가 선언만 되고 값을 할당 받지 못했을 때
+    console.log('apple'); // 문자열 String 타입
+
+// 변수 선언 후 대입 
+    let banana; // 변수 선언
+    banana = 1000; //변수 banana 먼저 선언 후 숫자 1000을 '대입'
+
+// 변수 선언과 동시에 대입
+    let orange = 12324; // 변수 선언과 동시에 문자타입 대입
+    console.log(orange); 
+
+ // 여러 개의 변수 선언 후 각 각의 값 대입
+    let a, b, c, d;
+    a = 1, b = 2, c = 4, d = a + b + c;
+
+// 한 줄에 여러 변수 선언과 동시에 값 대입
+    let 변수1 = 22, 변수2 = 33, 합계 = 변수1 + 변수2;
+
+<변수2>
+<console.log('---- var ----');>
+    // 변수 apple을 인지하고 메모리에 변수 자리를 만들어 놓은 상태(초기화) <- 변수 호이스팅
+    console.log(apple); // undefined 선언만 되고 값을 할당 받지 못함
+   '중복 선언, 재선언 가능'
+
+ <console.log('---- let ----');>
+    // console.log(banana); 참조 에러. 변수 호이스팅x
+    중복 선언, 재선언 불가능!
+
+<상수>
+const 상수 : 변하지 않는 수
+const orange; 상수의 경우 선언 후 대입 x
+선언과 동시에 대입 '재선언 불가능'
+
+
+<데이터 타입>
+console.log('--- 문자열 String ----')
+console.log('--- 숫자 Number ----')
+console.log('--- 논리 Boolean ----')
+console.log('--- undefined ----')
+console.log('--- null ----')
+console.log('--- 객체 Object ----')
+console.log('--- 함수 Function ----')
+console.log('--- 배열 Array ----')
+console.log('--- typeof 연산자: 데이터 타입을 문자열로 변환 ----')
+
+<산술연산자>
+   = 대입 혹은 할당,
+    + 더하기,
+    - 빼기,
+     * 곱하기,
+     / 나누기,
+     % 나머지 값,
+     ** 거듭제곱
+ 자바스크립트의 연산은 사칙 연산의 방식을 대부분 따름
+
+<문자열연산자>
+
+<더하기 연산자>
+숫자+문자=문자
+
+<빼기 연산자>
+숫자만 인식
+문자 - 문자 =숫자아님
+(숫자형) 문자열 - 숫자 = 계산 값 '숫자'
+
+<곱하기, 나누기 ... 연산자>
+문자 * 문자 = 숫자아님
+(숫자형)문자열 ** (숫자형)문자열 = 자동형 변환 '숫자'
+
+<대입(할당)연산자>
+= 를 기준으로 우변의 숫자만큼 연산하여 좌변의 변수에 '새로운 값으로 갱신'.
++= 더하기 대입,
+ -= 빼기 대입,
+*= 곱하기 대입,
+/= 나누기 대입,
+**= 제곱 대입,
+%= 나머지값 대입
+ a +=b; -> a + b = a; 와 b를 더한 후 a에 새로운 값으로 재할당
+
+<변수 선언>
+문자열에서 더하기 대입 연산자 사용시 앞의 내용이 그대로 추가
+ let output = '';
+ output += '<ul>'; // output('') + '<ul>' -> output('<ul>')
+ output += '<li>HTML5</li>'; // output('<ul>') + '<li>HTML5</li>' -> output
+
+
+ document.body.innerHTML = output;
+
+
+<변수 초기화>
+    let txt = ''; 문자열
+    let num = 0; 숫자
+    let boo = false; 불리언
+    let obj = null; 객체
+
