@@ -2,7 +2,7 @@
 **javaScript:**
 - 코드팬 https://codepen.io/trending
 - 자바스크립트 연결(내부,외부)
-- Object.method(parameter);
+- Object.method(parameter); 객체. 메서드(매개변수);
 - 안내창 alert();, confirm();, prompt();
 - 변수1 var, 변수2 let(선언)
 - 상수 const
