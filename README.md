@@ -5,6 +5,9 @@
 - 데이터형 비교 연산자 ( ===, !== )
 - 논리연산자 ( &&(AND), ||(OR), !(NOT) )
 - 제어문 : if조건문, switch선택문, for 반복문, while 반복문
+- 삼항연산자
+- if-eles조건문/ else-if 조건문
+- 중첩if문
 
 # 240422
 **javaScript:**
