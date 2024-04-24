@@ -1,0 +1,38 @@
+*javascript
+
+<ifEx6>
+let grade = ""; //문자열로 초기화
+단락구문평가
+ grade && (document.body.innerHTML += `<h2>${score}점은 '${grade}'입니다.</h2>`);
+
+<switch선택문2>
+ 사이트명 입력시 해당 사이트로 이동
+window.location.href = "https://~"; 현재 탭에서 이동
+window.open().location.href = "https://~"; 새 탭으로 열기
+
+<중첩switch문Ex>
+
+<for반복문>
+ for 반복문: 조건이 만족되는 동안 반복 실행
+ for(초기값; 조건식; 증감식){실행문}
+
+<변수 scope>
+funtion level scope : 함수 내에서만 유효한 범위. var
+block level scope : {} 안에서만 유요한 범위. function, if, for switch문 등. let
+함수 선언
+var x = '지역 변수'; // var 키워드 입력시 함수안에서만 사용가능 호출해야만 밖으로 나옴
+var i = 10;  / var i = 20; //같은 키워드로 같은 이름의 재선언이 허용
+
+let k = 10; // let k =20; 같은 키워드로 같은 이름의 재선언 허용 안됨
+k = 30; // 재할당만 가능
+ { let k = 40; // 전역 변수 k와 다른 이 지역에서만 사용되는 k라서 가능}
+
+<whlie반복문1>
+ while 반복문: 조건이 참인 동안 반복
+
+let 식별자 = 초기값;
+while(조건) { <- 반드시 종료될 수 있는 조건 필요 조건이 만족 될 때까지의 실행문;
+      
+증감식; 이 값이 없으면 초기값으로 무한 반복
+//한계가 설정되지 않으면 무한 반복 되기 때문에 '반드시' 빠져나올 조건이 필요함
+
