@@ -1,3 +1,11 @@
+# 240424
+**javaScript:**
+- switch선택문
+- 중첩switch문
+- for반복문
+- 변수 scope
+- whlie반복문
+
 # 240423
 **javaScript:**
 - 증감연산자 ++(증가) --(감소), ++a 전위 증가 연산자, a++ 후위 증가 연산자
