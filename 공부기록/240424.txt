@@ -1,4 +1,4 @@
-*javascript
+*JavaScript
 
 <ifEx6>
 let grade = ""; //문자열로 초기화

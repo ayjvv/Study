@@ -1,4 +1,4 @@
-*javascript
+*JavaScript
 
 <증감연산자>
      변수의 값을 1씩 증가 시키거나 감소 시킴

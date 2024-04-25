@@ -1,4 +1,4 @@
-*javaScript
+*JavaScript
 
 <vp-favicon-og-reset-공통내용css-레이아웃css-현재페이지css-kakao js-swiper js>
 

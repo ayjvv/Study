@@ -1,4 +1,4 @@
-*javascript
+*JavaScript
 <break키워드>
  break; //이 키워드 만나는 즉시 구문을 벗어남. if, while, switch, for
 즉시 구문을 빠져 나오기 때문에 * 하나만 반환
