@@ -1,3 +1,11 @@
+# 240425
+**javaScript:**
+- break키워드
+- contitnue키워드
+- isNaN():
+- 객체 Object "키(key)" : 값(value), <- 속성(property)
+- Date객체 
+
 # 240424
 **javaScript:**
 - switch선택문
