@@ -1,15 +1,15 @@
 # 240425
-**javaScript:**
+**JavaScript:**
 - break키워드
 - contitnue키워드
 - isNaN():
 - 객체 Object "키(key)" : 값(value), <- 속성(property)
 - Date객체
 - Math객체
-- javaScript 활용하여 문제 만들기
+- JavaScript 활용하여 문제 만들기
 
 # 240424
-**javaScript:**
+**JavaScript:**
 - switch선택문
 - 중첩switch문
 - for반복문
@@ -17,7 +17,7 @@
 - whlie반복문
 
 # 240423
-**javaScript:**
+**JavaScript:**
 - 증감연산자 ++(증가) --(감소), ++a 전위 증가 연산자, a++ 후위 증가 연산자
 - 비교 연산자 ( <, > / <=, >= / == / != )
 - 데이터형 비교 연산자 ( ===, !== )
@@ -29,7 +29,7 @@
 - switch선택문
 
 # 240422
-**javaScript:**
+**JavaScript:**
 - 코드팬 https://codepen.io/trending
 - 자바스크립트 연결(내부,외부)
 - Object.method(parameter); 객체. 메서드(매개변수);
