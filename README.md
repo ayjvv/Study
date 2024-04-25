@@ -6,6 +6,7 @@
 - 객체 Object "키(key)" : 값(value), <- 속성(property)
 - Date객체
 - Math객체
+- javaScript 활용하여 문제 만들기
 
 # 240424
 **javaScript:**
