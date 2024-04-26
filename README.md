@@ -1,3 +1,10 @@
+# 240426
+**JavaScript:**
+- 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet}
+- String객체 {'.trim(), .indexOf(), slice()[,],'.replace(), .split() '}
+- 함수function
+
+
 # 240425
 **JavaScript:**
 - break키워드
