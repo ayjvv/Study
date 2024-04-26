@@ -1,3 +1,9 @@
+# 240426
+**JavaScript:**
+- 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet
+- String객체
+
+
 # 240425
 **JavaScript:**
 - break키워드
