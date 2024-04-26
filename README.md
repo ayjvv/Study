@@ -1,6 +1,6 @@
 # 240426
 **JavaScript:**
-- 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet
+- 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet}
 - String객체
 
 
