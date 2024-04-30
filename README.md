@@ -1,8 +1,11 @@
 # 240430
 **JavaScript:**
 - 배열Array_find
-- 배열Array_filte
-- 
+- 배열Array_filter
+- 배열Array_reduce
+- 배열Array_forEach
+- 배열Array_map
+- pread전개구문
 
 # 240429
 **JavaScript:**
