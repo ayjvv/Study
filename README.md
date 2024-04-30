@@ -1,5 +1,11 @@
 # 240430
 **JavaScript:**
+- 배열Array_find
+- 배열Array_filte
+- 
+
+# 240429
+**JavaScript:**
 - 함수function4
 - 화살표 함수
 - this 키워드
