@@ -1,8 +1,19 @@
+# 240430
+**JavaScript:**
+- 함수function4
+- 화살표 함수
+- this 키워드
+- 함수 스코프
+- 콜백함수1
+- 동기적 통신/ 비동기적 통신
+- 비동기함수 (setTimeout, setInterval)
+
+
 # 240426
 **JavaScript:**
 - 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet}
 - String객체 {'.trim(), .indexOf(), slice()[,],'.replace(), .split() '}
-- 함수function
+- 함수function 1,2,3
 
 
 # 240425
