@@ -5,7 +5,7 @@
 - 배열Array_reduce
 - 배열Array_forEach
 - 배열Array_map
-- pread전개구문
+- spread전개구문
 
 # 240429
 **JavaScript:**
