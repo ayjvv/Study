@@ -1,3 +1,12 @@
+# 240501
+**JavaScript:**
+- 재귀 함수
+- 즉시 실행 함수
+- .padStart(문자열길이, '채워넣을 문자');
+- DOM객체1_탐색
+- DOM객체2_탐색 => html 표준 정의 속성 접근
+- class제어
+
 # 240430
 **JavaScript:**
 - 배열Array_find
