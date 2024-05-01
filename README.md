@@ -6,7 +6,7 @@
 - DOM객체1_탐색 => Document Object Model
 - DOM객체2_표준속성 => html 표준 정의 속성 접근
 - class제어
-- event
+- event (addEventListener, DOMContentLoaded, bubbling, capturing, event.stopPropagation, event.target, event.currentTarge)
 
 # 240430
 **JavaScript:**
