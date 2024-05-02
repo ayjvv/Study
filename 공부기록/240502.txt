@@ -1,0 +1,69 @@
+*jQuery
+
+jQuery검색- 다운로드 - 컨트롤 s - 원하는 곳에 저장(asset)
+
+- 자바스크립트 라이브러리로 제이쿼리 셀렉터, 애니메이션 등 자바스크립트와 동일한
+작업을 수행하지만 더 쉽게 사용 가능
+
+- 반드시!! 모든 제이쿼리 파일 중에 먼저 작성되어야 함 / head영역 위에 작성
+ <script src="../asset/jquery-3.7.1.min.js"></script>
+
+<!-- 내가 작성한 js 문서는 제일 마지막에 작성 -->
+<script src="./selectors.js"></script>
+
+<js문서>
+
+jQuery 기본 구조
+   $('대상').method();
+
+https://api.jquery.com/category/selectors/
+jQuery('*'); 제이쿼리 방식으로 전체 선택자를 탐색
+$('#id'); 아이디 선택자 탐색
+$('.class'); 클래식 선택자 탐색
+$('#id > .class, type type'); 다중 선택자 탐색
+$('type:nth-child()');
+$('type[attribute=value]');
+$(':hover');
+
+ 탐색 메서드 .method();
+   $().parent(); 직계 부모 노드 탐색
+   $().parents(); 모든 부모 노드 탐색 
+   $().children(); 모든 직계 자식 노드 탐색
+   $().siblings(); 형제 노드 탐색
+   $().prev(); 바로 이전 형제 노드 탐색
+   $().next(); 바로 다음 형제 노드 탐색
+   $().prevAll(); 이전 형제 노드 '모두' 탐색
+   $().nextAll(); 다음 형제 노드 '모두' 탐색
+   $().first(); 일치하는 요소에서 첫번재 노드 탐색
+   $().last(); 일치하는 요소에서 마지막 노드 탐색
+   $().find(); 일치하는 하위 노드 탐색. 반드시 매개변수로 작성해야함
+   $().filter(); 일치하는 노드 탐색 (주로 걸러냄)
+
+
+<eventMethod1>
+click: 한번 클릭
+dblclick: 더블클릭
+mouseover: 마우스를 올렸을 때/하위 노드에 영향을 줌
+mouseout: 마우스 땠을 때/ 하위 노드에 영향을 줌
+mouseenter: 마우스를 올렸을 때/하위 노드에 영향x
+mouseleave: 마우스 땠을 때/ 하위 노드에 영향x
+hover: 마우스를 객체 위에 올렸을 때와 벗어났을 때. jQuery 전용
+
+'user-select': 'none'});//(드래그)텍스트 선택 막음
+
+<show+hide+toggle>
+show() /hide()/ toggle() show, hide 반복
+
+<slideUp+slideDown+slideToggle>
+.slideUp(); 서서히 올라감
+.slideDown(); 서서히 내려감
+ .slideToggle(); Up,Down
+
+<fadeIn+fadeOut+fadeToggle>
+fadeOut();//서서히 사라짐
+fadeIn(); //서서히 나타남
+fadeToggle(); // 둘다 가능
+
+
+<fadeTo>
+.fadeTo(500,0); //(속도,불투명도 0~1)
