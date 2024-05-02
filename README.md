@@ -1,6 +1,12 @@
 # 240502
 **jQuery:**
-- 
+- jQuery 기본 구조
+- 탐색 메서드 .method();
+- eventMethod
+- show+hide+toggle
+- slideUp+slideDown+slideToggle
+- fadeIn+fadeOut+fadeToggle
+- fadeTo
 
 # 240501
 **JavaScript:**
