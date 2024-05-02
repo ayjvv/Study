@@ -1,3 +1,7 @@
+# 240502
+**jQuery:**
+- 
+
 # 240501
 **JavaScript:**
 - 재귀 함수
@@ -7,6 +11,7 @@
 - DOM객체2_표준속성 => html 표준 정의 속성 접근
 - class제어
 - event (addEventListener, DOMContentLoaded, bubbling, capturing, event.stopPropagation, event.target, event.currentTarge)
+- JavaScript 함수 활용하여 문제 만들기
 
 # 240430
 **JavaScript:**
