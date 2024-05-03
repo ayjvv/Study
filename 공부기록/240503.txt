@@ -1,0 +1,43 @@
+*jQuery
+
+<width+height>
+//알고싶을 때
+const ht = $('.box').height();
+console.log(ht);
+//바꿀때
+$('.box').width('50vw');
+
+<.text()>
+기준 요소의 문자를 가져오거나 반환
+
+<.html()>
+html 구조를 가져오거나 반환
+ const ht = $('ul').html(); //기준 요소의 자식 노드 모두 리턴(태그 포함)
+
+<attr1>
+html 태그 속성 (attribute)의 값을 가져오거나 반환
+const title = $('h1').attr('class'); // 속성 class의 값을 읽음
+
+
+<addClass+removeClass+toggleClass>
+.addClass(); 클래스 선택자 적용
+.removeClass(); 클래스 선택자 제거
+.toggleClass(); on/off
+
+==========================
+
+*240503_자바스크립트_팀프로젝트
+안윤지, 이진선, 이혜수
+
+프로젝트명 : 
+
+팀 리더 : 
+
+팀원 :
+
+Github Organization : url
+
+벤치마킹 사이트 : url
+https://www.awwwards.com/sites/redis-agency
+https://www.gdweb.co.kr/main/
+화려한 사이트
