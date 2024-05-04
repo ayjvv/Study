@@ -1,3 +1,12 @@
+# 240503
+**jQuery:**
+- width+height
+- .text();
+- .html();
+- attr
+- addClass+removeClass+toggleClass
+- 자바스크립트 팀프로젝트(프로젝트명, 팀리더, 팀원, Github Organization, 벤치마킹 사이트)
+
 # 240502
 **jQuery:**
 - jQuery 기본 구조
