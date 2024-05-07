@@ -1,12 +1,21 @@
+# 240503
+**jQuery:**
+- width+height
+- .text(); 기준 요소의 문자를 가져오거나 반환
+- .html(); html 구조를 가져오거나 반환
+- attr(); html 태그 속성 (attribute)의 값을 가져오거나 반환
+- 클래스 선택자 적용, 제거 addClass+removeClass+toggleClass
+- 자바스크립트 팀프로젝트(프로젝트명, 팀리더, 팀원, Github Organization, 벤치마킹 사이트)
+
 # 240502
 **jQuery:**
 - jQuery 기본 구조
 - 탐색 메서드 .method();
-- eventMethod
-- show+hide+toggle
-- slideUp+slideDown+slideToggle
-- fadeIn+fadeOut+fadeToggle
-- fadeTo
+- 클릭, 마우스 eventMethod
+- 보여짐, 사라짐 show+hide+toggle
+- 서서히 올라감, 내려감 slideUp+slideDown+slideToggle
+- 서서히 나타남, 사라짐 fadeIn+fadeOut+fadeToggle
+- fadeTo(속도, 불투명도 0~1)
 
 # 240501
 **JavaScript:**
@@ -41,8 +50,8 @@
 
 # 240426
 **JavaScript:**
-- 배열Array {'.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet}
-- String객체 {'.trim(), .indexOf(), slice()[,],'.replace(), .split() '}
+- 배열Array {.push(), .unshift(), .concat(), .join(), .splice(), .slice(), .delet}
+- String객체 {.trim(), .indexOf(), slice()[],.replace(), .split() }
 - 함수function 1,2,3
 
 
