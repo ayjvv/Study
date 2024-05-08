@@ -1,0 +1,7 @@
+*jQuery
+
+<animate();>
+https://api.jquery.com/animate/]
+e.keycode(키보드)
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode
+// .animate ({속성: 값, 속성: 값, ...}, 진행시간, 움직임 형태, ...);
