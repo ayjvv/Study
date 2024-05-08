@@ -1,3 +1,7 @@
+# 240508
+**jQuery:**
+- animate();
+
 # 240507
 **jQuery:**
 - hasclass(); 기준 요소에 해당 클래스가 있으면 true, 없으면 false 반환
