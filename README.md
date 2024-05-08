@@ -1,3 +1,12 @@
+# 240507
+**jQuery:**
+- hasclass(); 기준 요소에 해당 클래스가 있으면 true, 없으면 false 반환
+- remove(); 기준 요소도 제거
+- empty(); 기준 요소는 남음
+- $('B').prependTo('A'); A에서 요소B를 제일 처음으로 이동
+- $('B').appendTo('A'); A에서 요소B를 제일 마지막으로 이동
+
+
 # 240503
 **jQuery:**
 - width+height
