@@ -1,6 +1,21 @@
+# 2405010
+**jQuery:**
+- scrollTop+scrollLeft(); 가로, 세로 스크롤 되는 크기를 불러오거나 반환
+**JavaScript:**
+
+# 240509
+**jQuery:**
+- slideEx2~3/ animateEx5
+- delay(); / 애니메이션 대기 후 실행
+**JavaScript:**
+- 자바스크립트 팀프로젝트(figma 디자인작업)
+
 # 240508
 **jQuery:**
-- animate();
+- .animate ({속성: 값, 속성: 값, ...}, 진행시간, 움직임 형태, ...);
+- animateEx1~4/ slideEx1
+**JavaScript:**
+- 자바스크립트 팀프로젝트(figma 와이어프레임, 디자인작업)
 
 # 240507
 **jQuery:**
@@ -9,6 +24,8 @@
 - empty(); 기준 요소는 남음
 - $('B').prependTo('A'); A에서 요소B를 제일 처음으로 이동
 - $('B').appendTo('A'); A에서 요소B를 제일 마지막으로 이동
+**JavaScript:**
+- 자바스크립트 팀프로젝트(레퍼런스 사이트, 리뉴얼 사이트, figma 와이어프레임)
 
 
 # 240503
@@ -18,6 +35,7 @@
 - .html(); html 구조를 가져오거나 반환
 - attr(); html 태그 속성 (attribute)의 값을 가져오거나 반환
 - 클래스 선택자 적용, 제거 addClass+removeClass+toggleClass
+**JavaScript:**
 - 자바스크립트 팀프로젝트(프로젝트명, 팀리더, 팀원, Github Organization, 벤치마킹 사이트)
 
 # 240502
