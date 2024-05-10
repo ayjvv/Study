@@ -41,3 +41,11 @@ https://ko.javascript.info/size-and-scroll-window
 
  jQurey
          .offset().top, .offset().left
+
+
+<scrollTo+scrollBy+scrollIntoView>
+pageX; 페이지 기준
+window.scrollTo(pageX, pageY); 절대 좌표 '스크롤' 값
+window.scrollBy(x, y); 현재 스크롤 상태를 기준으로 상대적 '스크롤' 정보 변경
+window.scrollIntoView(); 화면 처음으로 해당 요소가 '스크롤'로 이동.
+false값인 경우 화면의 제일 아래로 이동 
