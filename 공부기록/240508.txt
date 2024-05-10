@@ -5,3 +5,9 @@ https://api.jquery.com/animate/]
 e.keycode(키보드)
 https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode
 // .animate ({속성: 값, 속성: 값, ...}, 진행시간, 움직임 형태, ...);
+
+========================
+
+*240508_자바스크립트_팀프로젝트
+
+figma 와이어프레임, 디자인작업: https://www.figma.com/file/0iDo6PRX3ucdS9y5QdwQwt/%EB%A7%90%EC%97%86%EB%8A%94-%EC%9D%80%ED%95%98%EC%88%98%EC%97%90-%ED%95%80-%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84?type=design&node-id=0-1&mode=design&t=fCRtDbKXsmQlDODi-0

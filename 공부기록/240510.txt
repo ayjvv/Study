@@ -1,0 +1,43 @@
+*jQuery
+
+<브라우저 창 사이즈와 스크롤>
+https://ko.javascript.info/size-and-scroll-window
+
+<scrollTop+scrollLeft>
+가로, 세로 스크롤 되는 크기를 불러오거나 반환
+
+<window 객체 사이즈>
+('모니터 해상도 너비: ' + window.screen.width);
+ ('모니터 해상도 높이: ' + screen.height);
+('모니터 화면의 작업표시줄 제외 너비: ' + screen.availWidth);
+('모니터 화면의 작업표시줄 제외 높이: ' + screen.availHeight);
+
+('브라우저 전체 너비: ' + outerWidth);
+('브라우저 전체 높이: ' + outerHeight);
+('스크롤바 포함 브라우저 내부 너비(순수화면 사이즈): ' + innerWidth);
+('스크롤바 포함 브라우저 내부 높이(순수화면 사이즈): ' + innerHeight);
+
+ // .documentElement 문서 전체
+('스크롤바 미포함 브라우저 내부 너비: ' + document.documentElement.clientWidth);
+('스크롤바 미포함 브라우저 내부 높이: ' + document.documentElement.clientHeight);
+// 구버전 IE
+('구 스크롤바 영역 미포함 브라우저 내부 너비: ' + document.body.clientWidth);
+    
+('스크롤바의 숨겨진 영역까지 포함한 컨텐츠 너비: ' + document.documentElement.scrollWidth);
+('스크롤바의 숨겨진 영역까지 포함한 컨텐츠 높이: ' + document.documentElement.scrollHeight);
+
+
+<offset>
+  요소 element의 거리
+        offsetParent: position이 설정되어 있는 조상 요소 기준. 없으면 body 기준 
+        offsetTop: offsetParent 기준 위에서부터 떨어져 있는 거리
+        offsetLeft: offsetParent 기준 왼쪽으로부터 떨어져 있는 거리
+
+요소 element의 크기
+        offsetWidth: width + padding + border + scrollbar
+        offsetHeight: height + padding + border + scrollbar
+        clientWidth: width + padding
+        clientHeight: height + padding
+
+ jQurey
+         .offset().top, .offset().left
