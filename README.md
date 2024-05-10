@@ -1,6 +1,8 @@
 # 2405010
 **jQuery:**
 - scrollTop+scrollLeft(); 가로, 세로 스크롤 되는 크기를 불러오거나 반환
+- window 객체 사이즈
+- offset(); 요소 element의 거리/크기
 **JavaScript:**
 
 # 240509
