@@ -1,0 +1,14 @@
+*jQuery
+
+<scrollY>
+    window.pageYOffset: y축 방향으로 스크롤 한 거리. 오래된 버전과 호환.  읽기 전용 속성
+      window.scrollY: y축 방향으로 스크롤 한 거리 
+      pageXOffset: x축 방향으로 스크롤 한 거리
+      scrollX: x축 방향으로 스크롤 한 거리
+    
+      box1.scrollTop : 요소 기준 스크롤 한 거리 반환. 이동
+      scrollY : 뷰포트 기준 읽기 전용 속성
+
+
+
+pointer-events: none;  //마우스 성격 제어
