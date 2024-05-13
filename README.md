@@ -1,6 +1,7 @@
 # 2405013
 **jQuery:**
 - scrollY y축 방향으로 스크롤 한 거리
+- pointer-events: none; 마우스 성격 제어
 **JavaScript:**
 
 # 2405010
