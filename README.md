@@ -1,10 +1,18 @@
+# 2405013
+**jQuery:**
+- scrollY y축 방향으로 스크롤 한 거리
+- pointer-events: none; 마우스 성격 제어
+**JavaScript:**
+
 # 2405010
 **jQuery:**
 - scrollTop+scrollLeft(); 가로, 세로 스크롤 되는 크기를 불러오거나 반환
 - window 객체 사이즈
-- offset(); 요소 element의 거리/크기  
+- offset(); 요소 element의 거리/크기
+- scrollTo+scrollBy+scrollIntoView 스크롤 제어
 **JavaScript:**
-
+- 자바스크립트 팀프로젝트(figma 디자인작업)
+  
 # 240509
 **jQuery:**
 - slideEx2~3/ animateEx5
