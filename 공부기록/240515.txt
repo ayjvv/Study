@@ -1,0 +1,32 @@
+*jQuery
+
+ $('.global-menu a').on('click',(e)=>{
+  e.preventDefault();
+
+  scrollTo({
+    top: $('.box1').offset().top - $('header').height(),
+    behavior: 'smooth'
+  });
+
+});
+
+순차적으로 돌린다.
+
+여러 요소를 순차적으로 순회
+JS :
+array.forEach(elem =>{});
+[a[0],a[1],a[2],a[3]].forEach(a => {});
+
+
+jQuery :
+$.each(배열 혹은 객체, 콜백함수);
+배열인 경우 인덱스, 값 순서로 인자를 받음
+$.each((index, vaule)=>{});
+
+
+
+
+
+=============================
+
+*2405015_자바스크립트_팀프로젝트
