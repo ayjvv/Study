@@ -11,7 +11,7 @@
 **jQuery:**
 - async함수 await키워드
 - Fetch API
-- jQueryAjax1,2 (Json)
+- jQueryAjax1,2 (Json)  
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (최종 확인 후 제대로 작동하지 않는 애니메이션 수정, Ajax를 활용한 제품리스트 페이지 제작, 발표 PPT 제작, 대본 작성)
 
@@ -20,7 +20,7 @@
 - gsap1,2 (https://qude.audio/ 사이트 작업 css및 js)
 - gsap.registerPlugin(ScrollTrigger); 스크롤 트리거
 - gsap.utils.toArray()
-- ScrollTrigger.batch(); 여러 객체에 동일한 스크롤 트리거 적용
+- ScrollTrigger.batch(); 여러 객체에 동일한 스크롤 트리거 적용  
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (각 페이지 다른 부분 통일해서 수정, 메인페이지 애니메이션 효과 작업 수정)
 
@@ -33,14 +33,14 @@
 # 2405020
 **jQuery:**
 - gsap1,2 (https://qude.audio/ 사이트 작업)
-- 로딩페이지 만들기
+- 로딩페이지 만들기  
 **JavaScript:**
 -자바스크립트 팀프로젝트 (main-bg 구역: 마우스 hover, 제품 이미지 누끼 상세하게 다시 작업, 푸터 로테이트 부분 섬세하게 다시 작업)
 
 # 2405017
 **jQuery:**
 - prarallaxEx
-**JavaScript:**
+**JavaScript:**   
 - 자바스크립트 팀프로젝트 (메인 js 작업 마무리 후 서브페이지 js작업과 함께 모바일 버전 작업 진행)
 
 # 2405016
@@ -55,8 +55,8 @@
 **jQuery:**
 - $.each(배열 혹은 객체, 콜백함수);
 - requestAnimationFrame() 화면에 프레임이 실행되기 전 함수 호출
-- horizontalScrolling1,2
-- 마우스 좌표
+- horizontalScrolling1,2   
+- 마우스 좌표   
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (각각 맞은 페이지 html 작업 완료 후 css)
 
@@ -69,7 +69,7 @@
 # 2405013
 **jQuery:**
 - scrollY y축 방향으로 스크롤 한 거리
-- pointer-events: none; 마우스 성격 제어  
+- pointer-events: none; 마우스 성격 제어    
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (폰트, 폰트 크기, 이미지 수정, 피드백 수용 후 수정, 시맨틱 마크업 시작)
 
@@ -78,21 +78,21 @@
 - scrollTop+scrollLeft(); 가로, 세로 스크롤 되는 크기를 불러오거나 반환
 - window 객체 사이즈
 - offset(); 요소 element의 거리/크기
-- scrollTo+scrollBy+scrollIntoView 스크롤 제어
+- scrollTo+scrollBy+scrollIntoView 스크롤 제어    
 **JavaScript:**
 - 자바스크립트 팀프로젝트(figma 디자인작업)
   
 # 240509
 **jQuery:**
 - slideEx2~3/ animateEx5
-- delay(); / 애니메이션 대기 후 실행  
+- delay(); / 애니메이션 대기 후 실행    
 **JavaScript:**
 - 자바스크립트 팀프로젝트(figma 디자인작업)
 
 # 240508
 **jQuery:**
 - .animate ({속성: 값, 속성: 값, ...}, 진행시간, 움직임 형태, ...);
-- animateEx1~4/ slideEx1  
+- animateEx1~4/ slideEx1   
 **JavaScript:**
 - 자바스크립트 팀프로젝트(figma 와이어프레임, 디자인작업)
 
