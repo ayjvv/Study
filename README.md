@@ -12,7 +12,7 @@
 - async함수 await키워드
 - Fetch API
 - jQueryAjax1,2 (Json)  
-**jQuery:**
+**JavaScript:**
 - 자바스크립트 팀프로젝트 (최종 확인 후 제대로 작동하지 않는 애니메이션 수정, Ajax를 활용한 제품리스트 페이지 제작, 발표 PPT 제작, 대본 작성)
 
 # 2405022
