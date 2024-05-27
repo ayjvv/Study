@@ -62,7 +62,7 @@
 
 # 2405014
 **jQuery:**
-- scrollEx4
+- scrollEx4    
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (마크업 마무리, 메인과 서브 페이지 html 구조 작성)
   
