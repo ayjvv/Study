@@ -47,7 +47,7 @@
 **jQuery:**
 - resize 리사이즈 이벤트가 발생했을 때
 - swiper pulgIn
-- vegas pulgIn
+- vegas pulgIn    
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (css 작업 마무리, 메인 js 작업 시작)
 
