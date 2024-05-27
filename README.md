@@ -26,7 +26,7 @@
 
 # 2405021
 **jQuery:**
-- gsap1,2 (https://qude.audio/ 사이트 작업 css및 js)
+- gsap1,2 (https://qude.audio/ 사이트 작업 css및 js)   
 **JavaScript:**
 - 자바스크립트 팀프로젝트 (메인페이지 충돌 해결, 로딩페이지 제작, 애니메이션 수정)
 
