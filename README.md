@@ -39,8 +39,8 @@
 
 # 2405017
 **jQuery:**
-- prarallaxEx
-**JavaScript:**   
+- prarallaxEx     
+**JavaScript:**    
 - 자바스크립트 팀프로젝트 (메인 js 작업 마무리 후 서브페이지 js작업과 함께 모바일 버전 작업 진행)
 
 # 2405016
