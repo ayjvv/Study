@@ -1,0 +1,19 @@
+*jQuery
+
+gsap1,2 (https://qude.audio/ 사이트 작업 css및 js)
+
+
+// GSAP
+// 스크롤트리거 
+gsap.registerPlugin(ScrollTrigger);
+
+gsap.utils.toArray()
+
+ScrollTrigger.batch(); 여러 객체에 동일한 스크롤 트리거 적용
+
+
+
+=============================
+
+*2405022_자바스크립트_팀프로젝트
+각 페이지 다른 부분 통일해서 수정, 메인페이지 애니메이션 효과 작업 수정
