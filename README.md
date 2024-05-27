@@ -34,7 +34,7 @@
 **jQuery:**
 - gsap1,2 (https://qude.audio/ 사이트 작업)
 - 로딩페이지 만들기  
-**JavaScript:**
+**JavaScript:**   
 -자바스크립트 팀프로젝트 (main-bg 구역: 마우스 hover, 제품 이미지 누끼 상세하게 다시 작업, 푸터 로테이트 부분 섬세하게 다시 작업)
 
 # 2405017
