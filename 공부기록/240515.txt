@@ -1,32 +1,30 @@
 *jQuery
 
- $('.global-menu a').on('click',(e)=>{
-  e.preventDefault();
-
-  scrollTo({
-    top: $('.box1').offset().top - $('header').height(),
-    behavior: 'smooth'
-  });
-
-});
-
-순차적으로 돌린다.
-
-여러 요소를 순차적으로 순회
-JS :
-array.forEach(elem =>{});
-[a[0],a[1],a[2],a[3]].forEach(a => {});
+JS : 여러 요소를 순차적으로 순회
+	array.forEach(elem => {});
+	[a[0],a[1],a[2],a[3]].forEach(a => {});
 
 
-jQuery :
-$.each(배열 혹은 객체, 콜백함수);
-배열인 경우 인덱스, 값 순서로 인자를 받음
-$.each((index, vaule)=>{});
+ jQuery : 여러 요소를 순차적으로 순회
+	$.each(배열 혹은 객체, 콜백함수);
+	배열인 경우 인덱스, 값 순서로 인자를 받음
+	$.each(((index, value) => {}));
 
 
+<requestAnimationFrame()>
+화면에 프레임이 실행되기 전 함수 호출
+
+  requestAnimationFrame(callback);
+       ㄴ 콜백함수: 애니메이션을 업데이트 할 때 호출할 함수
+       ㄴ 반환값: 요청 id 인 long 정수 값(0이 아닌 값)
 
 
+<horizontalScrolling1,2>
+addEventListener("wheel",(event)=>{});
+https://developer.mozilla.org/en-US/docs/Web/API/Element/wheel_event
 
+<마우스 좌표>
 =============================
 
 *2405015_자바스크립트_팀프로젝트
+각각 맞은 페이지 html 작업 완료 후 css

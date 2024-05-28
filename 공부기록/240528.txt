@@ -1,0 +1,29 @@
+*react
+
+<terminal 프로젝트 생성>
+http://localhost:3000/
+
+npm init react-app 240528
+
+y
+
+Happy hacking!
+
+cd 240528_react
+
+ctrl + c
+
+npm start
+
+
+
+manifest.json 에서 네임 바꾸기
+
+인덱스 수정
+
+모든 작업은 src에서 함
+
+대문자로 시작하면 컨포넌트로 구분
+
+감싸주는 태그가 있어야함
+(div section  <>..)
