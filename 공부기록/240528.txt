@@ -1,5 +1,7 @@
 *react
 
+rsc방식
+
 <terminal 프로젝트 생성>
 http://localhost:3000/
 
@@ -27,3 +29,8 @@ manifest.json 에서 네임 바꾸기
 
 감싸주는 태그가 있어야함
 (div section  <>..)
+
+========================
+포트폴리오
+Figma 디자인 작업
+

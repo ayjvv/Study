@@ -1,0 +1,16 @@
+*react 
+<install 방식>
+basic 설치
+npm 사이트- reset 설치(minireset, styled-reset)
+
+
+<props>
+부모 컴포넌트에서 자식 컴포넌트로 전달되는 데이터
+자식에서 부모로 데이터(props)만 전달될 수는 없음
+읽기 전용
+
+
+
+========================
+포트폴리오
+디렉토리 구성 & 디자인가이드 & 마크업 & Git Hub pages & HTML 작업 시작
