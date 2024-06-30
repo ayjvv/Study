@@ -2,12 +2,22 @@
 
 - - - -   
 <br>
-    
 
 # 2400610 ~ 240702
 **포트폴리오 작업 & 개인 프로젝트**
 
 # 2400605
+**react:**
+- form
+- encodeURIComponent();
+- URL
+- useLocation();
+- useEffect
+
+**포트폴리오:**
+- 포트폴리오 퍼블리싱 작업 마무리
+
+# 2400604
 **react:**
 - Route path
 - useNavigate
@@ -16,13 +26,6 @@
 - .split("T")
 - .toLocaleString();
 - .toISOString();
-
-**포트폴리오:**
-- 포트폴리오 퍼블리싱 작업 마무리
-
-# 2400604
-**react:**
--
 
 **포트폴리오:**
 - 포트폴리오 퍼블리싱 작업
