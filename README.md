@@ -16,14 +16,33 @@
 # 2400603
 **react:**
 
+
 # 2405031
 **react:**
+- ESLint , Prettier 설치
+- Todo List 작성
+- onChange={} => input
+- useRef()
 
 # 2405030
 **react:**
+- install 방식
+- props (부모 컴포넌트에서 자식 컴포넌트로 전달되는 데이터)
+- event ('on-'접두어 + 첫글자 대문자로 이벤트명)
+- state (상태 변화를 위해 사용하는 hook)  
+
+**포트폴리오:**
+- 디렉토리 구성 & 디자인가이드 & 마크업 & Git Hub pages & HTML 작업 시작
 
 # 2405029
 **react:**
+- src 폴더
+- npm i styled-components
+- styled-components Animation
+- 자바스크립트 변수 대입
+
+**포트폴리오:**
+- 포트폴리오 Figma 디자인 마무리
 
 # 2405028
 **react:**
@@ -31,9 +50,8 @@
 - npm start
 - 컴퍼넌트 js 문서는 대문자로 시작
 
-  **포트폴리오:**
-  - 포트폴리오 Figma 디자인 작업
-
+**포트폴리오:**
+ - 포트폴리오 Figma 디자인 작업
 
 # 2405027
 **react:**
